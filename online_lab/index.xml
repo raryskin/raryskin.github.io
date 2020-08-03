@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Online_labs | LInC Lab</title>
+    <link>https://raryskin.github.io/online_lab/</link>
+      <atom:link href="https://raryskin.github.io/online_lab/index.xml" rel="self" type="application/rss+xml" />
+    <description>Online_labs</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 02 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://raryskin.github.io/img/icon-192.png</url>
+      <title>Online_labs</title>
+      <link>https://raryskin.github.io/online_lab/</link>
+    </image>
+    
+    <item>
+      <title>Volunteer to participate in lab research!</title>
+      <link>https://raryskin.github.io/online_lab/study2/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://raryskin.github.io/online_lab/study2/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Link to web experiments coming soon!</title>
+      <link>https://raryskin.github.io/online_lab/study1/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://raryskin.github.io/online_lab/study1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
