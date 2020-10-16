@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | LInC Lab</title>
-    <link>https://raryskin.github.io/publication_types/2/</link>
-      <atom:link href="https://raryskin.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication_types/2/</link>
+      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://raryskin.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>2</title>
-      <link>https://raryskin.github.io/publication_types/2/</link>
+      <link>/publication_types/2/</link>
     </image>
     
     <item>
       <title>Opinion: Do domain-general executive resources play a role in linguistic prediction? Re-evaluation of the evidence and a path forward</title>
-      <link>https://raryskin.github.io/publication/journal-article/</link>
+      <link>/publication/journal-article/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://raryskin.github.io/publication/journal-article/</guid>
+      <guid>/publication/journal-article/</guid>
       <description></description>
     </item>
     

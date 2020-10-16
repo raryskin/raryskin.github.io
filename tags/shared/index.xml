@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shared | LInC Lab</title>
-    <link>https://raryskin.github.io/tags/shared/</link>
-      <atom:link href="https://raryskin.github.io/tags/shared/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/shared/</link>
+      <atom:link href="/tags/shared/index.xml" rel="self" type="application/rss+xml" />
     <description>Shared</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://raryskin.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Shared</title>
-      <link>https://raryskin.github.io/tags/shared/</link>
+      <link>/tags/shared/</link>
     </image>
     
     <item>
       <title>Link to web experiments coming soon!</title>
-      <link>https://raryskin.github.io/online_lab/study1/</link>
+      <link>/online_lab/study1/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://raryskin.github.io/online_lab/study1/</guid>
+      <guid>/online_lab/study1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects on Open Science Framework</title>
-      <link>https://raryskin.github.io/project/osf-link/</link>
+      <link>/project/osf-link/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://raryskin.github.io/project/osf-link/</guid>
+      <guid>/project/osf-link/</guid>
       <description></description>
     </item>
     
