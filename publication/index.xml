@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Research</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/publication/featured.jpg</url>
       <title>Research</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>CogSci Paper: Probabilistic weighting of perspectives in dyadic communication</title>
-      <link>/publication/conference-paper/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/</guid>
+      <title>New paper: An ERP index of real-time error correction within a noisy-channel framework of human communication</title>
+      <link>/publication/noisyerp-journal-article/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/noisyerp-journal-article/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Preprint: An ERP index of real-time error correction within a noisy-channel framework of human communication</title>
-      <link>/publication/preprint/</link>
-      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint/</guid>
+      <title>CogSci Paper: Probabilistic weighting of perspectives in dyadic communication</title>
+      <link>/publication/conference-paper/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/</guid>
       <description></description>
     </item>
     
