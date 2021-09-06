@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research | LInC Lab</title>
+    <link>https://raryskin.github.io/publication/</link>
+      <atom:link href="https://raryskin.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://raryskin.github.io/publication/featured.jpg</url>
+      <title>Research</title>
+      <link>https://raryskin.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>New paper: An ERP index of real-time error correction within a noisy-channel framework of human communication</title>
+      <link>https://raryskin.github.io/publication/noisyerp-journal-article/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://raryskin.github.io/publication/noisyerp-journal-article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CogSci Paper: Probabilistic weighting of perspectives in dyadic communication</title>
+      <link>https://raryskin.github.io/publication/conference-paper/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://raryskin.github.io/publication/conference-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opinion: Do domain-general executive resources play a role in linguistic prediction? Re-evaluation of the evidence and a path forward</title>
+      <link>https://raryskin.github.io/publication/journal-article/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://raryskin.github.io/publication/journal-article/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
