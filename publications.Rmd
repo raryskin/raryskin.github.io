@@ -1,0 +1,60 @@
+---
+title: "Publications"
+output: html_document
+---
+<style type="text/css">
+.title {
+  display: none;
+}
+</style>
+<div class="row" style="text-align: justify; font-size:15px;  text-justify: inter-word; width: 700px; padding-top: 50px;padding-left: 10px">
+
+#### Please check my [OSF profile](https://osf.io/skpx5/) or contact me directly for raw data from any paper where I am first author 
+<br/>
+
+**Ryskin, R.**, Salinas, M., Piantadosi, S., & Gibson, E. (preprint). Real-time pragmatic inference across cultures: evidence from a non-industrialized society. [[PsyArXiv](https://psyarxiv.com/ga83j/)]
+
+**Ryskin, R.**, Bergen, L., & Gibson, E. (preprint). Agreement errors are predicted by rational inference in sentence processing. [[PsyArXiv]](https://doi.org/10.31234/osf.io/uaxsq)
+
+Chen, X., Affourtit, J., **Ryskin, R.**, Regev, T., Norman-Haignere, S., Jouravlev, O., Malik-Moraleda, S., Kean, H., Varley, R., & Fedorenko, E. (preprint). The human language system does not support music processing. [[bioRxiv]](https://doi.org/10.1101/2021.06.01.446439).
+
+Ostrand, R. & **Ryskin, R.** (accepted pending data collection). Registered Report: Speaker-specific syntactic expectations. _Journal of Cognitive Neuroscience_
+
+Rezaii, N., Mahowald, K, **Ryskin, R.**, Dickerson, B. & Gibson, E. (in press). A Lexico-Syntactic Trade-off in Language Production: Evidence from Primary Progressive Aphasia. _Proceedings of the National Academy of Sciences_
+
+**Ryskin, R.**, & Fang, X. (2021). [The Many Timescales of Context in Language Processing](https://doi.org/10.1016/bs.plm.2021.08.001). _Psychology of Learning and Motivation_. [[PDF]](pdfs/'Ryskin and Fang - 2021 - The many timescales of context in language process.pdf')
+
+Liu, Y., **Ryskin, R.**, Futrell, R., & Gibson, E. (2021). [A verb-frame frequency account of constraints on long-distance dependencies in English](https://doi.org/10.1016/j.cognition.2021.104902). _Cognition_, 104902.
+
+**Ryskin, R.**, Stearns, L., Bergen, L., Eddy, M., Fedorenko, E., & Gibson, E. (2021). [An ERP index of real-time error correction within a noisy-channel framework of human communication](https://doi.org/10.1016/j.neuropsychologia.2021.107855). _Neuropsychologia, 158_, 107855. [[UC Open Access](https://escholarship.org/uc/item/8f72t5x7)]
+
+**Ryskin, R.**, Stevenson, S., & Heller, D. (2020). [Probabilistic weighting of perspectives in dyadic communication](https://cognitivesciencesociety.org/cogsci20/papers/0050/index.html). _Proceedings of the 42nd Annual Meeting of the Cognitive Science Society_. [[PDF](pdfs/probabilisticweighting_0525.pdf)] [[data & code](https://github.com/raryskin/dyadPT)] 
+
+**Ryskin, R.**, Levy, R. P., & Fedorenko, E. (2020). [Do domain-general executive resources play a role in linguistic prediction? Re-evaluation of the evidence and a path forward](https://doi.org/10.1016/j.neuropsychologia.2019.107258). _Neuropsychologia, 136_, 107258. [[PDF](pdfs/Ryskin, Levy, & Fedorenko (2019).pdf)] 
+
+**Ryskin, R.**, Kurumada, C., & Brown‐Schmidt, S. (2019). [Information integration in modulation of pragmatic inferences during online language comprehension]( https://doi.org/10.1111/cogs.12769). _Cognitive science, 43(8)_, e12769. [[OSF project](https://osf.io/5geba/)]  [[PDF](pdfs/Ryskin_Kurumada_Brown-Schmidt_2019.pdf)] 
+
+**Ryskin, R**., Ng, S., Mimnaugh, K., Brown-Schmidt, S., & Federmeier, K. D. (2019). [Talker-specific predictions during language processing](https://doi.org/10.1080/23273798.2019.1630654). _Language, Cognition, & Neuroscience, 35 (6)_. 797-812. [[OSF project](https://osf.io/72p9m/)] [[Free download](https://www.tandfonline.com/eprint/RSZWGBBCGSPBMZZ6BCPR/full?target=10.1080/23273798.2019.1630654)]
+
+**Ryskin, R**. Futrell, R., Kiran, S., & Gibson, E. (2018). [Comprehenders model the nature of noise in the environment](https://www.sciencedirect.com/science/article/pii/S0010027718302245). _Cognition, 181_. 141-150. __Preregistration Challenge Winner__ [[OSF project](https://osf.io/rkrha/)]  [[Manuscript PDF](pdfs/Ryskin_Futrell_Kiran_Gibson_ACCEPTED.pdf)] 
+
+**Ryskin, R.**, Qi, Z., Covington, N. V., Duff, M., & Brown-Schmidt, S. (2018). [Knowledge and learning of verb biases in amnesia](https://www.sciencedirect.com/science/article/pii/S0093934X17302651). _Brain and Language, 180-182_. 62–83. [[Manuscript PDF](https://osf.io/h84wr)]
+
+**Ryskin, R.** & Brown-Schmidt, S. (2017). The malleability of linguistic representations poses a challenge to the priming-based experimental approach. _Behavioral and Brain Sciences, 40_, E309. Commentary on Branigan & Pickering (2017), _An Experimental Approach to Linguistic Representation_.[[PDF](https://osf.io/preprints/psyarxiv/z642t)]
+
+**Ryskin, R.**, Qi, Z., Duff, M., & Brown-Schmidt, S. (2017). Verb biases are shaped through lifelong learning. _Journal of Experimental Psychology: Learning, Memory, and Cognition, 43._ 781-794. [[PDF](pdfs/Ryskin, Qi, Duff, Brown-Schmidt (in press).pdf)]
+
+**Ryskin, R.**, Wang, R. F., & Brown-Schmidt, S. (2016). Listeners use speaker identity to access representations of spatial perspective during online language comprehension. _Cognition, 147_, 75-84. [[PDF](pdfs/Ryskin, Wang, & Brown-Schmidt (2016).pdf)]
+
+**Ryskin, R.**, Benjamin, A. S., Tullis, J. & Brown-Schmidt, S. (2015). Perspective-taking in comprehension, production, and memory: an individual differences approach. _Journal of Experimental Psychology: General,144_, 898-915. [[PDF](pdfs/Ryskin, Benjamin, Tullis, Brown-Schmidt (2015).pdf)]
+
+**Ryskin, R.**., Yoon, S., & Brown-Schmidt (2015). [Language, Memory, and Perspectives](https://doi.org/10.1002/9781118900772.etrds0200), in _Emerging Trends in the Social and Behavioral Sciences_ (eds.) Robert Scott and Stephen Kosslyn, Hoboken, NJ: John Wiley and Sons. [[PDF](pdfs/Ryskin,Yoon, Brown-Schmidt (2015).pdf)]
+
+Brown-Schmidt, S., Yoon, S., & **Ryskin, R.* A.** (2015). People as Contexts in Conversation. In B. H. Ross (Ed.), _Psychology of Learning and Motivation_, Vol. 62, pp. 59-99. San Diego, CA: Elsevier Academic Press. [[PDF](pdfs/Brown-Schmidt - Psych of Learning and Motivation.pdf)]
+
+**Ryskin, R.**, Brown-Schmidt, S., Canseco-Gonzalez, E., Yiu, L., & Nguyen, E. (2014). [Visuospatial perspective-taking in conversation and the role of bilingual experience](https://doi.org/10.1016/j.jml.2014.04.003). _Journal of Memory and Language, 74_, 46-76. [[PDF](pdfs/Ryskin,etal2014.pdf)]
+
+**Ryskin, R.** & Brown-Schmidt, S. (2014). [Do adults show a curse of knowledge in false-belief reasoning? A robust estimate of the true effect size](https://doi.org/10.1371/journal.pone.0092406). _PLoS ONE, 9_(3): e92406. [[PDF](pdfs/Ryskin&Brown-Schmidt(2014)-Vicki.pdf)]
+
+Rapp, D.N., Hinze, S.R., Kohlhepp, K., & **Ryskin, R.** (2014). [Reducing reliance on inaccurate information](https://doi.org/10.3758/s13421-013-0339-0). _Memory & Cognition, 42_, 11-26.[[PDF](pdfs/Rapp, Hinze, Kohlhepp. & Ryskin, 2014.pdf)]
+</div>

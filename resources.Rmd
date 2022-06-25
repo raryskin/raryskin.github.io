@@ -1,0 +1,24 @@
+---
+title: "Resources"
+output: html_document
+---
+
+<style type="text/css">
+.title {
+  display: none;
+}
+</style> 
+
+<div class="row" style="text-align: justify; font-size:15px;  text-justify: inter-word; width: 700px; padding-top: 50px;padding-left: 10px"">
+
+
+### Example experiment code
+
+[Visual world paradigm (with psychtoolbox and eyelink toolbox for Matlab)](https://github.com/raryskin/prag_train)
+
+[Basic PHP form for use with MTurk](https://github.com/raryskin/prag_train)
+
+### Workshops/Tutorials
+
+[Intro R workshop](https://raryskin.github.io/Intro_to_R_workshop_at_BU/)
+

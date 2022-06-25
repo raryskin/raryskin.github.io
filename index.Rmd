@@ -1,0 +1,48 @@
+---
+title: "About"
+output: html_document
+---
+
+<style type="text/css">
+.title {
+  display: none;
+}
+img {
+  border-radius: 200px 200px 200px 200px;
+}
+
+</style>
+
+<div class="row" style="text-align: center; width:700px; height=500px;padding-top: 150px; padding-right: 10px;padding-left: 10px">
+
+<img src="images/Ryskin_Rachel_200910-1-cropped-square.jpeg" alt="photo" width="200" height="200" style="float:center">
+```{r, include=FALSE, echo = F}
+library(icons)
+```
+
+# Rachel Ryskin
+
+`rryskin@ucmerced.edu`
+
+[`r icon_style(academicons("cv"), scale = 2, fill = "#2c3e50")`](pdfs/CV_RARyskin.pdf)
+[`r icon_style(academicons("google-scholar"), scale = 2, fill = "#2c3e50")`](https://scholar.google.com/citations?user=Mir7CnMAAAAJ&hl=en) 
+[`r icon_style(fontawesome("github"), scale = 2, fill = "#2c3e50")`](https://github.com/raryskin)
+[`r icon_style(fontawesome("twitter"), scale = 2, fill = "#2c3e50")`](https://twitter.com/raryskin) 
+
+</div>
+<div class="row" style="text-align: justify; font-size:15px; text-justify: inter-word; width: 700px; padding-top: 2px;padding-left: 10px">
+### Research
+
+How do __humans communicate__ so __effortlessly__ despite the __imperfect nature of language input__ (e.g., due to speech errors, ambiguities) and the __complexity of inferences__ involved in decoding its meaning (e.g., the speaker's knowledge state)? I study how individuals achieve impressively efficient language processing in the face of ambiguity, variability, and noise. I combine insights from eye-tracking, EEG, computational approaches, fieldwork, and neuropsychology to understand how people use various sources of information (visuo-spatial perspective, theory of mind, language statistics, etc.) to generate and constrain their linguistic predictions, as well as the learning and memory processes that underpin these representations. 
+
+
+### Academic bio
+
+I'm an Assistant Professor of Cognitive & Information Sciences at the University of California, Merced. Check out the [Language, Interaction, & Cognition (LInC) lab](https://linclab0.github.io) webpage for more details!
+
+Previously, I was a postdoc working with [Ev Fedorenko](http://evlab.mit.edu/) and [Ted Gibson](http://tedlab.mit.edu/) in the Department of Brain and Cognitive Sciences at MIT and [Swathi Kiran](http://www.bu.edu/aphasiaresearch/) in Speech, Language, and Hearing Science at Boston University. I got my PhD in Cognitive Psychology at the University of Illinois at Urbana-Champaign where I worked primarily with [Sarah Brown-Schmidt](http://sarahbrownschmidt.com/professional/) and [Aaron Benjamin](http://www.psych.illinois.edu/~asbenjam/). Before grad school, I got a B.A. in Cognitive Science from Northwestern University, where I studied memory for inaccurate information in text in [David Rapp](https://rapplab.sesp.northwestern.edu/index.html)'s lab and how verbal labels help children learn relational concepts in [Dedre Gentner](http://groups.psych.northwestern.edu/poct/)'s lab. 
+
+
+
+</div>
+

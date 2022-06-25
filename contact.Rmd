@@ -1,0 +1,26 @@
+---
+title: "Contact"
+output: html_document
+---
+
+<style type="text/css">
+.title {
+  display: none;
+}
+
+</style>
+
+<div style="width:100px; height=150px; padding-top: 50px; padding-right: 10px; float: left">
+![](images/picofme.jpg)  
+</div>
+<div style="width:40px; height=10px; padding-top: 50px; padding-left:10px; float: left">
+![](images/envelope.png)    
+<div style="width: 30px; height: 20px; padding-top: 10px">
+![](images/tweeter.png) 
+</div>
+</div>
+<div style="width:200px; padding-top: 50px;font-size:15px; padding-left:10px; float: left">
+ryskin "at" mit "dot" edu 
+<br />
+@[raryskin](https://twitter.com/raryskin)
+</div>

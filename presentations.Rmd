@@ -1,0 +1,115 @@
+---
+title: "Presentations"
+output: html_document
+---
+<style type="text/css">
+.title {
+  display: none;
+}
+</style>
+
+<div class="row" style="text-align: justify; font-size:15px;  text-justify: inter-word; width: 700px; padding-top: 100px;padding-left: 10px">
+
+
+James, A., **Ryskin, R.**,..., deLeeuw, J. (2022). What paradigms can webcam eye-tracking be used for? Attempted replications of 5 “classic” cognitive science experiments (as part of the symposium on 'Automated gaze-tracking
+and gaze-annotation for online studies of cognition and development'). Cognitive Development Society, Madison, WI.
+
+Poliak, M., **Ryskin, R.**, Braginsky, M. \& Gibson, E. (2022). Effects of the structural prior on noisy-channel inference: evidence from Russian. Human Sentence Processing (HSP) Conference. University of California, Santa Cruz
+
+**Ryskin, R.** \& Nicolette-Sanchez, V. (2021). Linguistic prediction across the lifespan. Annual Meeting of the Psychonomic Society, New Orleans, LA. [[PDF](pdfs/Pnomics2021_pred_age.pdf)]
+    
+Zhang, Z., Bergen, L., **Ryskin, R.**, Paunov, A. \& Gibson, E. (2021). How People Talk Affects the Implicatures That Others Make. Architectures and Mechanisms of Language Processing (AMLaP), Paris, France
+
+Zhang, Y., **Ryskin, R.** & Gibson, E. (2021). A Noisy-channel Explanation for Depth-charge Illusions.
+Architectures and Mechanisms of Language Processing (AMLaP), Paris, France
+
+Fang, X. & **Ryskin, R.** (2021). Talker-specific and talker-general learning in speech comprehension. California Meetup on Psycholinguistics, Irvine, CA
+
+Rezaii, N., Mahowald, K., **Ryskin, R.**, Dickerson, B. & Gibson, E. (2021). Syntactic Rule Frequency as a Measure of Syntactic Complexity: Insights from Primary Progressive Aphasia [short talk] Virtual CUNY Conference on Human Sentence Processing, Philadelphia, PA
+
+Ricciardi, G., **Ryskin, R.**, & Gibson, E. (2021). English locative inversions are not special in terms of their discourse function [short talk] Virtual CUNY Conference on Human Sentence Processing,
+Philadelphia, PA
+
+Liu, Y., **Ryskin, R.**, Futrell, R., & Gibson, E. (March, 2021). The role of construction frequency in listeners’ noisy-channel inferences. 45th Penn Linguistic Conference. Philadelphia, PA
+
+**Ryskin, R.**, & Fedorenko, E. (October, 2020). Individual-subject functional localization does not benefit ERP analyses. Poster at Society for the Neurobiology of Language. [[PDF](pdfs/SNL2020poster_ERPfuncLoc.pdf)]
+
+Weng, Y., **Ryskin, R.**, & Qi, Z. (October, 2020). Neural representation of syntactic prediction: A simultaneous eye-tracking and EEG study. Poster at Society for the Neurobiology of Language.
+
+**Ryskin, R.**, Stevenson, S., & Heller, D. (September, 2020). Probabilistic weighting of perspectives in dyadic communication. Poster at Cognitive Modeling and Computational Linguistics (CMCL) workshop. 
+
+Liu, Y., **Ryskin, R.**, Futrell, R., & Gibson, E. (September, 2020). The role of construction frequency in listeners’ noisy-channel inferences. Poster at Architectures and Mechanisms of Language Processing (AMLaP), Potsdam, Germany
+
+Ricciardi, G. **Ryskin, R.**, & Gibson, E. (September, 2020). Assessing the inferential strength of epistemic 'must.' Experiments in Linguistic Meaning (ELM)
+
+**Ryskin, R.**, Stevenson, S., & Heller, D. (July, 2020). [Probabilistic weighting of perspectives in dyadic communication](https://cognitivesciencesociety.org/cogsci20/papers/0050/index.html). Talk presented at the 42nd Annual Meeting of the Cognitive Science Society. [[PDF](pdfs/probabilisticweighting_0525.pdf)] [[data & code](github.com/raryskin/dyadPT)] 
+
+Liu, Y., **Ryskin, R.**, & Gibson, E. (March, 2020). Structural Frequency Effects in Comprehenders’ Noisy-Channel Inferences. Poster presented at the 33rd Annual CUNY Conference on Human Sentence Processing, Amherst, MA.
+
+Rezaii, N., **Ryskin, R.**, Cordella, C, Dickerson, B., & Gibson, E. (March, 2020). An Information-Theoretic Characterization of Language Production in Primary Progressive Aphasia. Poster presented at the 33rd Annual CUNY Conference on Human Sentence Processing, Amherst, MA.
+
+Ricciardi, G., **Ryskin, R.**, & Gibson, E. (March, 2020). Epistemic ‘must p’ is literally a strong statement. Poster presented at the 33rd Annual CUNY Conference on Human Sentence Processing, Amherst, MA.
+
+Ricciardi, G., **Ryskin, R.**, & Gibson, E. (March, 2020). The distribution of locative inversions: testing structural vs processing accounts. Poster presented at the 33rd Annual CUNY Conference on Human Sentence Processing, Amherst, MA.
+
+Weng, Y., Nguyen, A., **Ryskin, R.**, & Qi, Z. (March, 2020). Stronger prediction leads to greater processing cost during sentence ambiguity resolution: A simultaneous eye-tracking and EEG study. Poster presented at the 33rd Annual CUNY Conference on Human Sentence Processing, Amherst, MA.
+
+**Ryskin, R.**, Futrell, R., Kiran, S., & Gibson, E. (September, 2019). [Comprehenders aggregate over speakers when adapting to the noise in the input.](pdfs/AMLAP2019poster.pdf) Poster presented at Architectures and Mechanisms of Language Processing, Moscow, RU.
+
+**Ryskin, R.**, Salinas, M., Piantadosi, S. Rubio-Fernandez, P. & Gibson, E. (March, 2019). [Pragmatic inferences are modulated by informativity across cultures](https://mfr.osf.io/render?url=https://osf.io/ta7jq/?action=download%26mode=render). Poster presented at the 32nd Annual CUNY Conference on Human Sentence Processing, Boulder, CO.
+ 
+**Ryskin, R.**, Gibson, E. & Kiran, S. (March, 2019). [Noisy-channel Sentence Comprehension in Aphasia: The Role of Noise in the Context](https://mfr.osf.io/render?url=https://osf.io/v3abx/?action=download%26mode=render). Poster presented at the 32nd Annual CUNY Conference on Human Sentence Processing, Boulder, CO.
+
+Liu, Y, **Ryskin, R.**, Futrell, R., & Gibson, E. (March, 2019). Factive and manner-of-speaking islands are an artifact of nonlinearity in the acceptability judgment task. Poster presented at the 32nd Annual CUNY Conference on Human Sentence Processing, Boulder, CO.
+
+Ricciardi, G., Gibson, E., & **Ryskin, R.** (January, 2019). Experiment on epistemic must. Presented at the 93rd Annual Meeting of the Linguistic Society of America. New York, NY
+
+**Ryskin, R.**, Gibson, E. & Kiran, S. (October, 2018). Adaptation to the noise in aphasic language comprehension. Talk presented at Academy of Aphasia 56th Annual Meeting, Montréal, Canada.
+
+Campbell, R., **Ryskin, R.** & Kiran, S. (October, 2018). A novel eye tracking paradigm for assessing semantic and phonologic activation in aphasia. Academy of Aphasia 56th Annual Meeting, Montréal, Canada.
+
+**Ryskin, R.**, Qi, Z., Duff, M. & Brown-Schmidt, S. (March, 2018). [Effects of Aging on Verb Bias Knowledge and Learning](https://osf.io/zxwqb/). Talk presented at the 31st Annual CUNY Conference on Human Sentence Processing, Davis, CA. [[Watch  Archived Video]](http://cdnapi.kaltura.com/index.php/extwidget/preview/partner_id/1770401/uiconf_id/28589212/entry_id/0_u4zf6fbl/embed/dynamic#t=00:41)
+
+Nathaniel, S., **Ryskin, R.**, & Gibson, E. (March, 2018). The Effect of Context on Noisy-Channel Sentence Comprehension. Poster presented at the 31st Annual CUNY Conference on Human Sentence Processing, Davis, CA.
+
+**Ryskin, R.**, Futrell, R. & Gibson, E. (July, 2017). [Comprehenders Model the Nature of Noise in the Environment](https://mfr.osf.io/render?url=https://osf.io/4fjz8/?action=download%26mode=render). Talk presented at the 39th Annual Meeting of the Cognitive Science Society, London, UK.
+
+**Ryskin, R.**, Qi, Z., Duff, M. & Brown-Schmidt, S. (March, 2017). [Syntactic variability between and within speakers: When to adapt, when to generalize?](https://osf.io/3d5vu/) Talk presented at the 30th Annual CUNY Conference on Human Sentence Processing, Cambridge, MA. [[Watch on Youtube]](https://youtu.be/3xC4xsEhOp4?t=1h15m49s)
+
+**Ryskin, R.**, Fine, A. & Brown-Schmidt, S. (March, 2017). [Do Listeners Learn Speaker/Accent-Specific Syntactic Biases?](https://osf.io/9srw6/) Poster presented at the 30th Annual CUNY Conference on Human Sentence Processing, Cambridge, MA.
+
+**Ryskin, R.**, Qi, Z., Covington, N., Duff, M. & Brown-Schmidt, S. (March, 2017). [Knowledge and Learning of Verb Biases in Amnesia.](https://osf.io/e77wt/) Poster presented at the 30th Annual CUNY Conference on Human Sentence Processing, Cambridge, MA.
+
+**Ryskin, R.**, Ng, S., Mimnaugh, K., Brown-Schmidt, S & Federmeier, K. (March, 2017). [Speaker-specific predictions about category membership during language comprehension.](https://osf.io/t39vt/) Poster presented at the CNS Annual meeting in San Francisco, CA.
+
+**Ryskin, R.**, Kurumada, C., & Brown-Schmidt, S. (November, 2016). Information integration in online modulation of pragmatic inferences during language comprehension. Poster presented at the 57th annual meeting of the Psychonomic Society, Boston, MA.
+
+**Ryskin, R.**, Kurumada, C., & Brown-Schmidt, S., (March, 2016). Bottom-up adaptation of online pragmatic inferences to variability of speakers. Talk presented at the 29th Annual CUNY Conference on Human Sentence Processing, Gainesville, FL.
+
+**Ryskin, R.**, Qi, Z., Duff, M. & Brown-Schmidt, S. (March, 2016).  Constraints on adaptation to syntactic variability between and within speakers. Poster presented at the 29th Annual CUNY Conference on Human Sentence Processing, Gainesville, FL.
+
+**Ryskin, R.**, Qi, Z. & Brown-Schmidt, S. (November, 2015). Rapid Learning of a verb bias. Poster presented at the 56th annual meeting of the Psychonomic Society, Chicago, IL.
+
+**Ryskin, R.**, Brown-Schmidt, S., Tullis, J. & Benjamin, A. (2015). Perspective-taking: a domain-general cognitive ability? Paper presented at the 28th Annual CUNY Conference on Human Sentence Processing, Los Angeles, CA.
+
+**Ryskin, R.**, Brown-Schmidt, S., & Kurumada, C. (2015). Adaptation of Pragmatic Inferences Transfers across Contrastive Domains. Poster presented at the 28th Annual CUNY Conference on Human Sentence Processing, Los Angeles, CA.
+
+**Ryskin, R.**, Wang, R.F., & Brown-Schmidt, S. (November, 2014). How do listeners encode spatial perspectives? Poster presented at the 55th annual meeting of the Psychonomic Society, Long Beach, CA.
+
+**Ryskin, R.** & Brown-Schmidt, S. (November, 2013). Do adults show a curse of knowledge in false-belief reasoning? A robust estimate of the true effect size. Poster presented at the 54th annual meeting of the Psychonomic Society, Toronto, Canada. 
+
+**Ryskin, R.**, Canseco-Gonzalez, E, Yiu, L., Nguyen, E., Lopez, L., Hammond-Oakley, C. B., & Brown-Schmidt, S. (May, 2013). A Bilingual Disadvantage in Linguistic Perspective Adjustment. Poster presented at the International Workshop for Bilingualism and Cognitive Control, Krakow, Poland. 
+
+**Ryskin, R.** & Brown-Schmidt, S. (November, 2012). A Bilingual Disadvantage in Linguistic Perspective Adjustment. Talk presented at the 53rd annual meeting of the Psychonomic Society, Minneapolis, MN. 
+
+**Ryskin, R.** & Brown-Schmidt, S. (October, 2012). Contributions of Gender and Bilingualism to Spatial Perspective-taking. Talk presented at the 3rd annual UIC Bilingualism Forum, Chicago, IL 
+
+**Ryskin, R.** & Brown-Schmidt, S. (May, 2012). Contributions of Gender and Bilingualism to Spatial Perspective-taking. Poster presented at 2nd Annual Midwest Cognitive Science Conference, Bloomington, IN. 
+
+**Ryskin, R.** & Brown-Schmidt, S. (September, 2011). The impact of gender and bilingualism on cognition: the case of spatial perspective-taking. Poster presented at the 15th annual workshop on the semantics and pragmatics of dialogue (SemDial), Los Angeles, CA. 
+
+Kohlhepp, K., **Ryskin R.**, & Rapp, D.N. (May, 2011). Editing what's wrong to avoid learning it: Proofreading as intervention. Poster presented at the annual meeting of the Midwestern Psychological Association, Chicago, IL.
+
+Rapp, D.N. & **Ryskin, R.** (November, 2010). Proofreading Fosters Resistance to the Effects of Inaccurate Information. Talk at the 51st annual meeting of the Psychonomic Society, St. Louis, MO.
+
+</div>
