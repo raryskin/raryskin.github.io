@@ -8,7 +8,7 @@ output: html_document
 }
 </style>
 
-<div class="row" style="text-align: justify; font-size:15px;  text-justify: inter-word; width: 700px; padding-top: 100px;padding-left: 10px">
+<div class="row" style="text-align: justify; font-size:15px;  text-justify: inter-word; width: 700px; padding-top: 50px;padding-left: 10px">
 
 
 James, A., **Ryskin, R.**,..., deLeeuw, J. (2022). What paradigms can webcam eye-tracking be used for? Attempted replications of 5 “classic” cognitive science experiments (as part of the symposium on 'Automated gaze-tracking

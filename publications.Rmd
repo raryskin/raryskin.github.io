@@ -22,7 +22,7 @@ Ostrand, R. & **Ryskin, R.** (accepted pending data collection). Registered Repo
 
 Rezaii, N., Mahowald, K, **Ryskin, R.**, Dickerson, B. & Gibson, E. (in press). A Lexico-Syntactic Trade-off in Language Production: Evidence from Primary Progressive Aphasia. _Proceedings of the National Academy of Sciences_
 
-**Ryskin, R.**, & Fang, X. (2021). [The Many Timescales of Context in Language Processing](https://doi.org/10.1016/bs.plm.2021.08.001). _Psychology of Learning and Motivation_. [[PDF]](pdfs/'Ryskin and Fang - 2021 - The many timescales of context in language process.pdf')
+**Ryskin, R.**, & Fang, X. (2021). [The Many Timescales of Context in Language Processing](https://doi.org/10.1016/bs.plm.2021.08.001). _Psychology of Learning and Motivation_. [[PDF]](pdfs/Ryskin and Fang - 2021 - The many timescales of context in language process.pdf)
 
 Liu, Y., **Ryskin, R.**, Futrell, R., & Gibson, E. (2021). [A verb-frame frequency account of constraints on long-distance dependencies in English](https://doi.org/10.1016/j.cognition.2021.104902). _Cognition_, 104902.
 
