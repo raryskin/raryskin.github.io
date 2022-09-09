@@ -33,7 +33,7 @@ library(icons)
 <div class="row" style="text-align: justify; font-size:15px; text-justify: inter-word; width: 700px; padding-top: 2px;padding-left: 10px">
 ### Research
 
-How do __humans communicate__ so __effortlessly__ despite the __imperfect nature of language input__ (e.g., due to speech errors, ambiguities) and the __complexity of inferences__ involved in decoding its meaning (e.g., the speaker's knowledge state)? I study how individuals achieve impressively efficient language processing in the face of ambiguity, variability, and noise. I combine insights from eye-tracking, EEG, computational approaches, fieldwork, and neuropsychology to understand how people use various sources of information (visuo-spatial perspective, theory of mind, language statistics, etc.) to generate and constrain their linguistic predictions, as well as the learning and memory processes that underpin these representations. 
+__How do humans understand each other?__ I study how individuals make sophisticated inferences, in real time, during communication in order to extract meaning from language input that can be noisy and ambiguous. I combine insights from eye-tracking, EEG, computational approaches, fieldwork, and neuropsychology to understand 1) how people use various sources of information (visuo-spatial perspective, the speaker's knowledge state, language statistics, etc.) to generate and constrain their linguistic predictions, and 2) how lifelong learning allows inferences to be adaptive when the environment changes. 
 
 
 ### Academic bio

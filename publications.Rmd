@@ -15,17 +15,25 @@ Fedorenko, E., **Ryskin, R. A.**, Gibson, E. (preprint). Agrammatic output in no
 
 **Ryskin, R.**, Salinas, M., Piantadosi, S., & Gibson, E. (preprint). Real-time pragmatic inference across cultures: evidence from a non-industrialized society. [[PsyArXiv](https://psyarxiv.com/ga83j/)]
 
+Zhang, Y., **Ryskin, R.**, & Gibson, E. (preprint). A Noisy-Channel Approach to Depth-Charge
+Illusions. [[SSRN](https://ssrn.com/abstract=4130042)]
+
 **Ryskin, R.**, Bergen, L., & Gibson, E. (preprint). Agreement errors are predicted by rational inference in sentence processing. [[PsyArXiv]](https://doi.org/10.31234/osf.io/uaxsq)
 
 Chen, X., Affourtit, J., **Ryskin, R.**, Regev, T., Norman-Haignere, S., Jouravlev, O., Malik-Moraleda, S., Kean, H., Varley, R., & Fedorenko, E. (preprint). The human language system does not support music processing. [[bioRxiv](https://doi.org/10.1101/2021.06.01.446439)]
 
 Ostrand, R. & **Ryskin, R.** (accepted pending data collection). Registered Report: Speaker-specific syntactic expectations. _Journal of Cognitive Neuroscience_
 
-Rezaii, N., Mahowald, K, **Ryskin, R.**, Dickerson, B. & Gibson, E. (in press). A Lexico-Syntactic Trade-off in Language Production: Evidence from Primary Progressive Aphasia. _Proceedings of the National Academy of Sciences_
+Cain, E., Ryskin, R., & Yu, C. (2022). [Quantifying cross-situational statistics during parent-child
+toy play](https://escholarship.org/uc/item/7w66j9bd). Proceedings of the Cognitive Science Society, Toronto, CA
+
+Rezaii, N., Mahowald, K, **Ryskin, R.**, Dickerson, B. & Gibson, E. (2022). [A Lexico-Syntactic Trade-off in Language Production: Evidence from Primary Progressive Aphasia](https://doi.org/10.1073/pnas.2120203119). _Proceedings of the National Academy of Sciences, 119 (25)_. e2120203119.
+
+Liu, Y., **Ryskin, R.**, Futrell, R., & Gibson, E. (2022). [A verb-frame frequency account of constraints on long-distance dependencies in English](https://doi.org/10.1016/j.cognition.2021.104902). _Cognition_, 222, 104902.
+
 
 **Ryskin, R.**, & Fang, X. (2021). [The Many Timescales of Context in Language Processing](https://doi.org/10.1016/bs.plm.2021.08.001). _Psychology of Learning and Motivation_. [[PDF]](pdfs/Ryskin and Fang - 2021 - The many timescales of context in language process.pdf)
 
-Liu, Y., **Ryskin, R.**, Futrell, R., & Gibson, E. (2021). [A verb-frame frequency account of constraints on long-distance dependencies in English](https://doi.org/10.1016/j.cognition.2021.104902). _Cognition_, 104902.
 
 **Ryskin, R.**, Stearns, L., Bergen, L., Eddy, M., Fedorenko, E., & Gibson, E. (2021). [An ERP index of real-time error correction within a noisy-channel framework of human communication](https://doi.org/10.1016/j.neuropsychologia.2021.107855). _Neuropsychologia, 158_, 107855. [[UC Open Access](https://escholarship.org/uc/item/8f72t5x7)]
 
