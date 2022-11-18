@@ -5,10 +5,6 @@ navbar:
   left:
     - text: "About"
       href: index.html
-    - text: "Publications"
-      href: publications.html
-    - text: "Presentations"
-      href: presentations.html
 output:
   html_document:
     theme: flatly

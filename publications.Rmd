@@ -11,9 +11,7 @@ output: html_document
 
 #### Please check my [OSF profile](https://osf.io/skpx5/) or contact me directly for raw data from any paper where I am first author 
 <br/>
-Fedorenko, E., **Ryskin, R. A.**, Gibson, E. (preprint). Agrammatic output in non-fluent/Broca’s aphasia as a rational behavior. [[PsyArXiv](https://doi.org/10.31234/osf.io/46vdu)]
 
-**Ryskin, R.**, Salinas, M., Piantadosi, S., & Gibson, E. (preprint). Real-time pragmatic inference across cultures: evidence from a non-industrialized society. [[PsyArXiv](https://psyarxiv.com/ga83j/)]
 
 Zhang, Y., **Ryskin, R.**, & Gibson, E. (preprint). A Noisy-Channel Approach to Depth-Charge
 Illusions. [[SSRN](https://ssrn.com/abstract=4130042)]
@@ -24,7 +22,11 @@ Chen, X., Affourtit, J., **Ryskin, R.**, Regev, T., Norman-Haignere, S., Jouravl
 
 Ostrand, R. & **Ryskin, R.** (accepted pending data collection). Registered Report: Speaker-specific syntactic expectations. _Journal of Cognitive Neuroscience_
 
-Cain, E., Ryskin, R., & Yu, C. (2022). [Quantifying cross-situational statistics during parent-child
+**Ryskin, R.**, Salinas, M., Piantadosi, S., & Gibson, E. (in press). Real-time inference in communication across cultures: evidence from a non-industrialized society. _Journal of Experimental Psychology: General_. [[PsyArXiv](https://psyarxiv.com/ga83j/)]
+
+Fedorenko, E., **Ryskin, R.**, Gibson, E. (2022). [Agrammatic output in non-fluent/Broca’s aphasia as a rational behavior](https://doi.org/10.1080/02687038.2022.2143233). _Aphasiology_
+
+Cain, E., **Ryskin, R.**, & Yu, C. (2022). [Quantifying cross-situational statistics during parent-child
 toy play](https://escholarship.org/uc/item/7w66j9bd). Proceedings of the Cognitive Science Society, Toronto, CA
 
 Rezaii, N., Mahowald, K, **Ryskin, R.**, Dickerson, B. & Gibson, E. (2022). [A Lexico-Syntactic Trade-off in Language Production: Evidence from Primary Progressive Aphasia](https://doi.org/10.1073/pnas.2120203119). _Proceedings of the National Academy of Sciences, 119 (25)_. e2120203119.
