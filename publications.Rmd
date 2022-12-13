@@ -13,9 +13,6 @@ output: html_document
 <br/>
 
 
-Zhang, Y., **Ryskin, R.**, & Gibson, E. (preprint). A Noisy-Channel Approach to Depth-Charge
-Illusions. [[SSRN](https://ssrn.com/abstract=4130042)]
-
 **Ryskin, R.**, Bergen, L., & Gibson, E. (preprint). Agreement errors are predicted by rational inference in sentence processing. [[PsyArXiv]](https://doi.org/10.31234/osf.io/uaxsq)
 
 Chen, X., Affourtit, J., **Ryskin, R.**, Regev, T., Norman-Haignere, S., Jouravlev, O., Malik-Moraleda, S., Kean, H., Varley, R., & Fedorenko, E. (preprint). The human language system does not support music processing. [[bioRxiv](https://doi.org/10.1101/2021.06.01.446439)]
@@ -23,6 +20,9 @@ Chen, X., Affourtit, J., **Ryskin, R.**, Regev, T., Norman-Haignere, S., Jouravl
 Ostrand, R. & **Ryskin, R.** (accepted pending data collection). Registered Report: Speaker-specific syntactic expectations. _Journal of Cognitive Neuroscience_
 
 **Ryskin, R.**, Salinas, M., Piantadosi, S., & Gibson, E. (in press). Real-time inference in communication across cultures: evidence from a non-industrialized society. _Journal of Experimental Psychology: General_. [[PsyArXiv](https://psyarxiv.com/ga83j/)]
+
+Zhang, Y., **Ryskin, R.**, & Gibson, E. (2023). [A Noisy-Channel Approach to Depth-Charge
+Illusions](https://doi.org/10.1016/j.cognition.2022.105346). _Cognition_. [[Preprint](https://ssrn.com/abstract=4130042)]
 
 Fedorenko, E., **Ryskin, R.**, Gibson, E. (2022). [Agrammatic output in non-fluent/Broca’s aphasia as a rational behavior](https://doi.org/10.1080/02687038.2022.2143233). _Aphasiology_
 
