@@ -15,11 +15,13 @@ output: html_document
 
 **Ryskin, R.**, Bergen, L., & Gibson, E. (preprint). Agreement errors are predicted by rational inference in sentence processing. [[PsyArXiv]](https://doi.org/10.31234/osf.io/uaxsq)
 
-Chen, X., Affourtit, J., **Ryskin, R.**, Regev, T., Norman-Haignere, S., Jouravlev, O., Malik-Moraleda, S., Kean, H., Varley, R., & Fedorenko, E. (preprint). The human language system does not support music processing. [[bioRxiv](https://doi.org/10.1101/2021.06.01.446439)]
-
 Ostrand, R. & **Ryskin, R.** (accepted pending data collection). Registered Report: Speaker-specific syntactic expectations. _Journal of Cognitive Neuroscience_
 
 **Ryskin, R.**, Salinas, M., Piantadosi, S., & Gibson, E. (in press). Real-time inference in communication across cultures: evidence from a non-industrialized society. _Journal of Experimental Psychology: General_. [[PsyArXiv](https://psyarxiv.com/ga83j/)]
+
+Zhang, Z., Bergen, L., Paunov, A., **Ryskin, R.**, & Gibson, E. (2023). [Scalar Implicature is Sensitive to Contextual Alternatives](https://doi.org/10.1111/cogs.13238). _Cognitive Science, 47(2)_, e13238. 
+
+Chen, X., Affourtit, J., **Ryskin, R.**, Regev, T., Norman-Haignere, S., Jouravlev, O., Malik-Moraleda, S., Kean, H., Varley, R., & Fedorenko, E. (2023). The human language system does not support music processing. _Cerebral Cortex_ [[bioRxiv](https://doi.org/10.1101/2021.06.01.446439)]
 
 Zhang, Y., **Ryskin, R.**, & Gibson, E. (2023). [A Noisy-Channel Approach to Depth-Charge
 Illusions](https://doi.org/10.1016/j.cognition.2022.105346). _Cognition_. [[Preprint](https://ssrn.com/abstract=4130042)]

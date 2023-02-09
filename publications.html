@@ -13,7 +13,7 @@
 
 <title>Publications</title>
 
-<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.19/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -178,8 +178,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -187,16 +187,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -292,11 +285,6 @@ author</h4>
 Agreement errors are predicted by rational inference in sentence
 processing. <a
 href="https://doi.org/10.31234/osf.io/uaxsq">[PsyArXiv]</a></p>
-<p>Chen, X., Affourtit, J., <strong>Ryskin, R.</strong>, Regev, T.,
-Norman-Haignere, S., Jouravlev, O., Malik-Moraleda, S., Kean, H.,
-Varley, R., &amp; Fedorenko, E. (preprint). The human language system
-does not support music processing. [<a
-href="https://doi.org/10.1101/2021.06.01.446439">bioRxiv</a>]</p>
 <p>Ostrand, R. &amp; <strong>Ryskin, R.</strong> (accepted pending data
 collection). Registered Report: Speaker-specific syntactic expectations.
 <em>Journal of Cognitive Neuroscience</em></p>
@@ -305,6 +293,15 @@ Gibson, E. (in press). Real-time inference in communication across
 cultures: evidence from a non-industrialized society. <em>Journal of
 Experimental Psychology: General</em>. [<a
 href="https://psyarxiv.com/ga83j/">PsyArXiv</a>]</p>
+<p>Zhang, Z., Bergen, L., Paunov, A., <strong>Ryskin, R.</strong>, &amp;
+Gibson, E. (2023). <a href="https://doi.org/10.1111/cogs.13238">Scalar
+Implicature is Sensitive to Contextual Alternatives</a>. <em>Cognitive
+Science, 47(2)</em>, e13238.</p>
+<p>Chen, X., Affourtit, J., <strong>Ryskin, R.</strong>, Regev, T.,
+Norman-Haignere, S., Jouravlev, O., Malik-Moraleda, S., Kean, H.,
+Varley, R., &amp; Fedorenko, E. (2023). The human language system does
+not support music processing. <em>Cerebral Cortex</em> [<a
+href="https://doi.org/10.1101/2021.06.01.446439">bioRxiv</a>]</p>
 <p>Zhang, Y., <strong>Ryskin, R.</strong>, &amp; Gibson, E. (2023). <a
 href="https://doi.org/10.1016/j.cognition.2022.105346">A Noisy-Channel
 Approach to Depth-Charge Illusions</a>. <em>Cognition</em>. [<a
