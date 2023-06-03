@@ -16,6 +16,8 @@ Ostrand, R. & **Ryskin, R.** (accepted pending data collection). Registered Repo
 
 **Ryskin, R.**, Bergen, L., & Gibson, E. (preprint). Agreement errors are predicted by rational inference in sentence processing. [[PsyArXiv]](https://doi.org/10.31234/osf.io/uaxsq)
 
+Poliak, M., **Ryskin, R.**, Braginsky, M., & Gibson, E. (in press). [It’s Not What You Say but How You Say It: Evidence from Russian Shows Robust Effects of the Structural Prior on Noisy Channel
+Inferences](https://doi.org/10.1037/xlm0001244). _Journal of Experimental Psychology: Learning, Memory, & Cognition_
 
 **Ryskin, R.**, Salinas, M., Piantadosi, S., & Gibson, E. (2023). [Real-time inference in communication across cultures: evidence from a non-industrialized society](https://doi.org/10.1037/xge0001345). _Journal of Experimental Psychology: General_. [[PsyArXiv](https://psyarxiv.com/ga83j/)]
 
