@@ -10,7 +10,7 @@ output: html_document
 <div class="row" style="text-align: justify; font-size:15px;  text-justify: inter-word; width: 700px; padding-top: 50px;padding-left: 10px">
 
 
-Cain, E. & **Ryskin, R.** (2023). [Diachronic Language Change and Its Influence on Lexico-semantic Representations Across the Lifespan](https://escholarship.org/uc/item/943334rm). Proceedings of the Cognitive Science Society, Sydney, AUS
+Cain, E. & **Ryskin, R.** (2023). [Diachronic Language Change and Its Influence on Lexico-semantic Representations Across the Lifespan](https://escholarship.org/uc/item/943334rm). _Proceedings of the Annual Meeting of the Cognitive Science Society, Sydney, AUS_
 
 Chen, S., Nathaniel, S., **Ryskin, R.**, & Gibson, E. (2023). [The effect of context on noisy-channel sentence comprehension](https://doi.org/10.1016/j.cognition.2023.105503). _Cognition_
 
@@ -30,7 +30,7 @@ Illusions](https://doi.org/10.1016/j.cognition.2022.105346). _Cognition_. [[Prep
 Fedorenko, E., **Ryskin, R.**, Gibson, E. (2022). [Agrammatic output in non-fluent/Broca’s aphasia as a rational behavior](https://doi.org/10.1080/02687038.2022.2143233). _Aphasiology_
 
 Cain, E., **Ryskin, R.**, & Yu, C. (2022). [Quantifying cross-situational statistics during parent-child
-toy play](https://escholarship.org/uc/item/7w66j9bd). Proceedings of the Cognitive Science Society, Toronto, CA
+toy play](https://escholarship.org/uc/item/7w66j9bd). _Proceedings of the Annual Meeting of the Cognitive Science Society, Toronto, CA_
 
 Rezaii, N., Mahowald, K, **Ryskin, R.**, Dickerson, B. & Gibson, E. (2022). [A Lexico-Syntactic Trade-off in Language Production: Evidence from Primary Progressive Aphasia](https://doi.org/10.1073/pnas.2120203119). _Proceedings of the National Academy of Sciences, 119 (25)_. e2120203119.
 
@@ -43,7 +43,7 @@ Liu, Y., **Ryskin, R.**, Futrell, R., & Gibson, E. (2022). [A verb-frame frequen
 
 **Ryskin, R.**, Stearns, L., Bergen, L., Eddy, M., Fedorenko, E., & Gibson, E. (2021). [An ERP index of real-time error correction within a noisy-channel framework of human communication](https://doi.org/10.1016/j.neuropsychologia.2021.107855). _Neuropsychologia, 158_, 107855. [[UC Open Access](https://escholarship.org/uc/item/8f72t5x7)]
 
-**Ryskin, R.**, Stevenson, S., & Heller, D. (2020). [Probabilistic weighting of perspectives in dyadic communication](https://cognitivesciencesociety.org/cogsci20/papers/0050/index.html). _Proceedings of the 42nd Annual Meeting of the Cognitive Science Society_. [[PDF](pdfs/probabilisticweighting_0525.pdf)] [[data & code](https://github.com/raryskin/dyadPT)] 
+**Ryskin, R.**, Stevenson, S., & Heller, D. (2020). [Probabilistic weighting of perspectives in dyadic communication](https://cognitivesciencesociety.org/cogsci20/papers/0050/index.html). _Proceedings of the Annual Meeting of the Cognitive Science Society_. [[PDF](pdfs/probabilisticweighting_0525.pdf)] [[data & code](https://github.com/raryskin/dyadPT)] 
 
 **Ryskin, R.**, Levy, R. P., & Fedorenko, E. (2020). [Do domain-general executive resources play a role in linguistic prediction? Re-evaluation of the evidence and a path forward](https://doi.org/10.1016/j.neuropsychologia.2019.107258). _Neuropsychologia, 136_, 107258. [[PDF](pdfs/Ryskin, Levy, & Fedorenko (2019).pdf)] 
 
