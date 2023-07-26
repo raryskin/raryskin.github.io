@@ -9,14 +9,12 @@ output: html_document
 </style>
 <div class="row" style="text-align: justify; font-size:15px;  text-justify: inter-word; width: 700px; padding-top: 50px;padding-left: 10px">
 
-#### Please check my [OSF profile](https://osf.io/skpx5/) or contact me directly for raw data from any paper where I am first author 
-<br/>
 
-Ostrand, R. & **Ryskin, R.** (accepted pending data collection). Registered Report: Speaker-specific syntactic expectations. _Journal of Cognitive Neuroscience_
+Cain, E. & **Ryskin, R.** (2023). [Diachronic Language Change and Its Influence on Lexico-semantic Representations Across the Lifespan](https://escholarship.org/uc/item/943334rm). Proceedings of the Cognitive Science Society, Sydney, AUS
 
-**Ryskin, R.**, Bergen, L., & Gibson, E. (preprint). Agreement errors are predicted by rational inference in sentence processing. [[PsyArXiv]](https://doi.org/10.31234/osf.io/uaxsq)
+Chen, S., Nathaniel, S., **Ryskin, R.**, & Gibson, E. (2023). [The effect of context on noisy-channel sentence comprehension](https://doi.org/10.1016/j.cognition.2023.105503). _Cognition_
 
-Poliak, M., **Ryskin, R.**, Braginsky, M., & Gibson, E. (in press). [It’s Not What You Say but How You Say It: Evidence from Russian Shows Robust Effects of the Structural Prior on Noisy Channel
+Poliak, M., **Ryskin, R.**, Braginsky, M., & Gibson, E. (2023). [It’s Not What You Say but How You Say It: Evidence from Russian Shows Robust Effects of the Structural Prior on Noisy Channel
 Inferences](https://doi.org/10.1037/xlm0001244). _Journal of Experimental Psychology: Learning, Memory, & Cognition_
 
 **Ryskin, R.**, Salinas, M., Piantadosi, S., & Gibson, E. (2023). [Real-time inference in communication across cultures: evidence from a non-industrialized society](https://doi.org/10.1037/xge0001345). _Journal of Experimental Psychology: General_. [[PsyArXiv](https://psyarxiv.com/ga83j/)]
@@ -38,6 +36,7 @@ Rezaii, N., Mahowald, K, **Ryskin, R.**, Dickerson, B. & Gibson, E. (2022). [A L
 
 Liu, Y., **Ryskin, R.**, Futrell, R., & Gibson, E. (2022). [A verb-frame frequency account of constraints on long-distance dependencies in English](https://doi.org/10.1016/j.cognition.2021.104902). _Cognition_, 222, 104902.
 
+**Ryskin, R.**, Bergen, L., & Gibson, E. (2021, preprint). Agreement errors are predicted by rational inference in sentence processing. [[PsyArXiv]](https://doi.org/10.31234/osf.io/uaxsq)
 
 **Ryskin, R.**, & Fang, X. (2021). [The Many Timescales of Context in Language Processing](https://doi.org/10.1016/bs.plm.2021.08.001). _Psychology of Learning and Motivation_. [[PDF]](pdfs/Ryskin and Fang - 2021 - The many timescales of context in language process.pdf)
 
