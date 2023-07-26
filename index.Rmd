@@ -28,7 +28,7 @@ library(icons)
 [`r icon_style(academicons("google-scholar"), scale = 2, fill = "#2c3e50")`](https://scholar.google.com/citations?user=Mir7CnMAAAAJ&hl=en) 
 [`r icon_style(fontawesome("github"), scale = 2, fill = "#2c3e50")`](https://github.com/raryskin)
 [`r icon_style(fontawesome("twitter"), scale = 2, fill = "#2c3e50")`](https://twitter.com/raryskin) 
-[`r icon_style(fontawesome("mastodon"), scale = 2, fill = "#2c3e50")`](https://mstdn.social/@raryskin)
+[`r icon_style(academicons("osf"), scale = 2, fill = "#2c3e50")`](https://osf.io/skpx5/)
 <a rel="me" href="https://mstdn.social/@raryskin"></a>
 </div>
 <div class="row" style="text-align: justify; font-size:15px; text-justify: inter-word; width: 700px; padding-top: 2px;padding-left: 10px">
