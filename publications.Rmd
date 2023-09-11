@@ -7,7 +7,7 @@ output: html_document
   display: none;
 }
 </style>
-<div class="row" style="text-align: justify; font-size:15px;  text-justify: inter-word; width: 700px; padding-top: 50px;padding-left: 10px">
+<div class="row" style="text-align: justify;  text-justify: inter-word; padding-top: 20px;padding-right: 20px;padding-left: 20px">
 
 
 Cain, E. & **Ryskin, R.** (2023). [Diachronic Language Change and Its Influence on Lexico-semantic Representations Across the Lifespan](https://escholarship.org/uc/item/943334rm). _Proceedings of the Annual Meeting of the Cognitive Science Society, Sydney, AUS_

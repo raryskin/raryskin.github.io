@@ -8,7 +8,7 @@ output: html_document
 }
 </style>
 
-<div class="row" style="text-align: justify; font-size:15px;  text-justify: inter-word; width: 700px; padding-top: 50px;padding-left: 10px">
+<div class="row" style="text-align: justify; font-size:15px;  text-justify: inter-word; padding-top: 20px;padding-left: 20px;padding-right: 20px">
 
 Cain, E., & **Ryskin, R**. (2022). [Diachronic language change and meaning across the lifespan](https://virtual.oxfordabstracts.com/#/event/3067/submission/166).
 Architectures and Mechanisms of Language Processing (AMLaP). York, UK

@@ -11,4 +11,4 @@ navbar:
       href: presentations.html
 output:
   html_document:
-    theme: flatly
+    theme: cosmo

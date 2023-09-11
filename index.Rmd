@@ -13,9 +13,12 @@ img {
 
 </style>
 
-<div class="row" style="text-align: center; width:700px; height=500px;padding-top: 50px; padding-right: 10px;padding-left: 10px">
+<div class="row" style="text-align: center; padding-top: 50px; padding-right: 20px;padding-left: 20px">
 
 <img src="images/Ryskin_Rachel_200910-1-cropped-square.jpeg" alt="photo" width="200" height="200" style="float:center">
+
+
+
 ```{r, include=FALSE, echo = F}
 library(icons)
 ```
@@ -31,7 +34,8 @@ library(icons)
 [`r icon_style(academicons("osf"), scale = 2, fill = "#2c3e50")`](https://osf.io/skpx5/)
 <a rel="me" href="https://mstdn.social/@raryskin"></a>
 </div>
-<div class="row" style="text-align: justify; font-size:15px; text-justify: inter-word; width: 700px; padding-top: 2px;padding-left: 10px">
+
+<div class="row" style="text-align: justify; text-justify: inter-word;  padding-top: 2px;padding-right: 20px;padding-left: 20px">
 ### Research
 
 __How do humans understand each other?__ I study how individuals make sophisticated inferences, in real time, during communication in order to extract meaning from language input that can be noisy and ambiguous. I combine insights from eye-tracking, EEG, computational approaches, fieldwork, and neuropsychology to understand 1) how people use various sources of information (visuo-spatial perspective, the speaker's knowledge state, language statistics, etc.) to generate and constrain their linguistic predictions, and 2) how lifelong learning allows inferences to be adaptive when the environment changes. 
@@ -44,6 +48,6 @@ I'm an Assistant Professor of Cognitive & Information Sciences at the University
 Previously, I was a postdoc working with [Ev Fedorenko](http://evlab.mit.edu/) and [Ted Gibson](http://tedlab.mit.edu/) in the Department of Brain and Cognitive Sciences at MIT and [Swathi Kiran](http://www.bu.edu/aphasiaresearch/) in Speech, Language, and Hearing Science at Boston University. I got my PhD in Cognitive Psychology at the University of Illinois at Urbana-Champaign where I worked primarily with [Sarah Brown-Schmidt](http://sarahbrownschmidt.com/professional/) and [Aaron Benjamin](http://www.psych.illinois.edu/~asbenjam/). Before grad school, I got a B.A. in Cognitive Science from Northwestern University, where I studied memory for inaccurate information in text in [David Rapp](https://rapplab.sesp.northwestern.edu/index.html)'s lab and how verbal labels help children learn relational concepts in [Dedre Gentner](http://groups.psych.northwestern.edu/poct/)'s lab. 
 
 
-
 </div>
+
 
