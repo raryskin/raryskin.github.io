@@ -9,6 +9,9 @@ output: html_document
 </style>
 <div class="row" style="text-align: justify;  text-justify: inter-word; padding-top: 20px; padding-right: 20px; padding-left: 20px">
 
+**Ryskin, R.** & Spivey, M. (2023). [Toward sophisticated models of naturalistic language behavior](https://doi.org/10.1016/j.plrev.2023.10.022). _Physics of Life Reviews_. [[PDF](pdfs/Ryskin and Spivey - 2023 - Toward sophisticated models of naturalistic langua.pdf)]. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Comment on ["Beyond Simple Laboratory Studies"](https://doi.org/10.1016/j.plrev.2023.07.006) by A. Maselli et al. (2023)
+
 **Ryskin, R.** & Nieuwland, M. (2023). [Prediction during language comprehension: what is next?](https://doi.org/10.1016/j.tics.2023.08.003) _Trends in Cognitive Sciences_
 
 Cain, E. & **Ryskin, R.** (2023). [Diachronic Language Change and Its Influence on Lexico-semantic Representations Across the Lifespan](https://escholarship.org/uc/item/943334rm). _Proceedings of the Annual Meeting of the Cognitive Science Society, Sydney, AUS_
@@ -56,7 +59,8 @@ Liu, Y., **Ryskin, R.**, Futrell, R., & Gibson, E. (2022). [A verb-frame frequen
 
 **Ryskin, R.**, Qi, Z., Covington, N. V., Duff, M., & Brown-Schmidt, S. (2018). [Knowledge and learning of verb biases in amnesia](https://www.sciencedirect.com/science/article/pii/S0093934X17302651). _Brain and Language, 180-182_. 62–83. [[Manuscript PDF](https://osf.io/h84wr)]
 
-**Ryskin, R.** & Brown-Schmidt, S. (2017). The malleability of linguistic representations poses a challenge to the priming-based experimental approach. _Behavioral and Brain Sciences, 40_, E309. Commentary on Branigan & Pickering (2017), _An Experimental Approach to Linguistic Representation_.[[PDF](https://osf.io/preprints/psyarxiv/z642t)]
+**Ryskin, R.** & Brown-Schmidt, S. (2017). The malleability of linguistic representations poses a challenge to the priming-based experimental approach. _Behavioral and Brain Sciences, 40_, E309. [[PDF](https://osf.io/preprints/psyarxiv/z642t)] <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Commentary on Branigan & Pickering (2017), _An Experimental Approach to Linguistic Representation_.
 
 **Ryskin, R.**, Qi, Z., Duff, M., & Brown-Schmidt, S. (2017). Verb biases are shaped through lifelong learning. _Journal of Experimental Psychology: Learning, Memory, and Cognition, 43._ 781-794. [[PDF](pdfs/Ryskin, Qi, Duff, Brown-Schmidt (in press).pdf)]
 
