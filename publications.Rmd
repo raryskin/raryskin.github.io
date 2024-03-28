@@ -12,6 +12,8 @@ output: html_document
 **Ryskin, R.** & Spivey, M. (2023). [Toward sophisticated models of naturalistic language behavior](https://doi.org/10.1016/j.plrev.2023.10.022). _Physics of Life Reviews_. [[PDF](pdfs/Ryskin and Spivey - 2023 - Toward sophisticated models of naturalistic langua.pdf)]. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Comment on ["Beyond Simple Laboratory Studies"](https://doi.org/10.1016/j.plrev.2023.07.006) by A. Maselli et al. (2023)
 
+Ricciardi, G., **Ryskin, R.**, \& Gibson, E. (2023). [Assessing the inferential strength of epistemic ‘must’](https://doi.org/10.1353/lan.2023.a914190). _Language_
+
 **Ryskin, R.** & Nieuwland, M. (2023). [Prediction during language comprehension: what is next?](https://doi.org/10.1016/j.tics.2023.08.003) _Trends in Cognitive Sciences_
 
 Cain, E. & **Ryskin, R.** (2023). [Diachronic Language Change and Its Influence on Lexico-semantic Representations Across the Lifespan](https://escholarship.org/uc/item/943334rm). _Proceedings of the Annual Meeting of the Cognitive Science Society, Sydney, AUS_
