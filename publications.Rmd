@@ -11,7 +11,11 @@ output: html_document
 
 Cain, E. & **Ryskin, R.** (preprint) [Semantic representations are updated across the lifespan reflecting diachronic language change](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4883002)
 
-Cain, E. and **Ryskin, R.** (2024). [Diachronic change in verb usage statistics predicts differences in sentence processing across the lifespan](https://aclanthology.org/2024.cmcl-1.19/). In _Proceedings of the Workshop on Cognitive Modeling and Computational Linguistics_, pages 221–230, Bangkok, Thailand. Association for Computational Linguistics.
+Ball L., Mak M., **Ryskin R.**, Curtis A., Rodd J., Gaskell MG. (preprint) [The Contribution of Learning and Memory Processes to Verb-Specific Syntactic Processing](https://doi.org/10.31234/osf.io/4xpdz)
+
+Cain, E. & **Ryskin, R.** (2024). [Diachronic change in verb usage statistics predicts differences in sentence processing across the lifespan](https://aclanthology.org/2024.cmcl-1.19/). In _Proceedings of the Workshop on Cognitive Modeling and Computational Linguistics_, pages 221–230, Bangkok, Thailand. Association for Computational Linguistics.
+
+Williams, T., Setzler, M., Kim, M., **Ryskin, R. A.**, Spivey, M., & Marghetis, T. (2024). [Professional Jazz Musicians Explore and Exploit a Space of Sounds](https://escholarship.org/content/qt72b6c674/qt72b6c674.pdf). _Proceedings of the Cognitive Science Society_.
 
 **Ryskin, R.** & Spivey, M. (2023). [Toward sophisticated models of naturalistic language behavior](https://doi.org/10.1016/j.plrev.2023.10.022). _Physics of Life Reviews_. [[PDF](pdfs/Ryskin and Spivey - 2023 - Toward sophisticated models of naturalistic langua.pdf)]. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Comment on ["Beyond Simple Laboratory Studies"](https://doi.org/10.1016/j.plrev.2023.07.006) by A. Maselli et al. (2023)
