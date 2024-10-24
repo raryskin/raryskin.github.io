@@ -9,7 +9,9 @@ output: html_document
 </style>
 <div class="row" style="text-align: justify;  text-justify: inter-word; padding-top: 20px; padding-right: 20px; padding-left: 20px">
 
-Cain, E. & **Ryskin, R.** (preprint) [Semantic representations are updated across the lifespan reflecting diachronic language change](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4883002)
+Billot, A., Jhingan, N., Varkanitsa, M., Blank, I., **Ryskin, R.**, Kiran,  S., & Fedorenko, E. (preprint) [The language network ages well: Preserved selectivity, lateralization, and within-network functional synchronization in older brains.](https://www.biorxiv.org/content/10.1101/2024.10.23.619954v1)
+
+Cain, E. & **Ryskin, R.** (preprint) [Semantic representations are updated across the lifespan reflecting diachronic language change.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4883002)
 
 Ball L., Mak M., **Ryskin R.**, Curtis A., Rodd J., Gaskell MG. (preprint) [The Contribution of Learning and Memory Processes to Verb-Specific Syntactic Processing](https://doi.org/10.31234/osf.io/4xpdz)
 
