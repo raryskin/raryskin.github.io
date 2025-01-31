@@ -13,7 +13,9 @@ Billot, A., Jhingan, N., Varkanitsa, M., Blank, I., **Ryskin, R.**, Kiran,  S., 
 
 Cain, E. & **Ryskin, R.** (preprint) [Semantic representations are updated across the lifespan reflecting diachronic language change.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4883002)
 
-Ball L., Mak M., **Ryskin R.**, Curtis A., Rodd J., Gaskell MG. (preprint) [The Contribution of Learning and Memory Processes to Verb-Specific Syntactic Processing](https://doi.org/10.31234/osf.io/4xpdz)
+**Ryskin, R.**, Gibson, E., & Kiran, S. (2025) [Noisy-channel language comprehension in aphasia: A Bayesian mixture modeling approach](https://doi.org/10.3758/s13423-025-02639-z)
+
+Ball L., Mak M., **Ryskin R.**, Curtis A., Rodd J., Gaskell MG. (2025) [The Contribution of Learning and Memory Processes to Verb-Specific Syntactic Processing](https://doi.org/10.1016/j.jml.2024.104595). [[OSF](https://doi.org/10.31234/osf.io/4xpdz)]
 
 Cain, E. & **Ryskin, R.** (2024). [Diachronic change in verb usage statistics predicts differences in sentence processing across the lifespan](https://aclanthology.org/2024.cmcl-1.19/). In _Proceedings of the Workshop on Cognitive Modeling and Computational Linguistics_, pages 221–230, Bangkok, Thailand. Association for Computational Linguistics.
 
