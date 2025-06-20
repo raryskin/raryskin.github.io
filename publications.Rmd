@@ -13,6 +13,8 @@ Billot, A., Jhingan, N., Varkanitsa, M., Blank, I., **Ryskin, R.**, Kiran,  S., 
 
 Cain, E. & **Ryskin, R.** (preprint) [Semantic representations are updated across the lifespan reflecting diachronic language change.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4883002)
 
+Cain, E. & **Ryskin, R.**, Yu, C. (2025) [Cross-Situational Statistics Present in an Early Language Learning Context: Evidence From Naturalistic Parent–Child Interactions](https://doi.org/10.1111/cogs.70078). _Cognitive Science_. [[PDF](https://escholarship.org/uc/item/3vq7v1s8)]
+
 **Ryskin, R.**, Gibson, E., & Kiran, S. (2025) [Noisy-channel language comprehension in aphasia: A Bayesian mixture modeling approach](https://doi.org/10.3758/s13423-025-02639-z). _Psychonomic Bulletin & Review_.
 
 Ball L., Mak M., **Ryskin R.**, Curtis A., Rodd J., Gaskell MG. (2025) [The Contribution of Learning and Memory Processes to Verb-Specific Syntactic Processing](https://doi.org/10.1016/j.jml.2024.104595). _Journal of Memory & Language_.
