@@ -13,6 +13,9 @@ Billot, A., Jhingan, N., Varkanitsa, M., Blank, I., **Ryskin, R.**, Kiran,  S., 
 
 Cain, E. & **Ryskin, R.** (preprint) [Semantic representations are updated across the lifespan reflecting diachronic language change.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4883002)
 
+James, A. N., **Ryskin, R.**, Hartshorne, J. K., Backs, H., Bala, N., Barcenas-Meade, L., Bhattarai, S., Charles, T., Copoulos, G., Coss, C., Eisert, A., Furuhashi, E., Ginell, K., Guttman-McCabe, A., Hoban, L., Hwang, W. A., Iannetta, C., Koenig, K. M., Lo, C., … de Leeuw, J. R. (2025).
+[What Paradigms Can Webcam Eye-Tracking Be Used For? Attempted Replications of Five Cognitive Science Experiments](https://doi.org/10.1525/collabra.140755). _Collabra: Psychology_, 11(1).
+
 Cain, E. & **Ryskin, R.**, Yu, C. (2025) [Cross-Situational Statistics Present in an Early Language Learning Context: Evidence From Naturalistic Parent–Child Interactions](https://doi.org/10.1111/cogs.70078). _Cognitive Science_. [[PDF](https://escholarship.org/uc/item/3vq7v1s8)]
 
 **Ryskin, R.**, Gibson, E., & Kiran, S. (2025) [Noisy-channel language comprehension in aphasia: A Bayesian mixture modeling approach](https://doi.org/10.3758/s13423-025-02639-z). _Psychonomic Bulletin & Review_.
