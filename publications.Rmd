@@ -13,10 +13,18 @@ Billot, A., Jhingan, N., Varkanitsa, M., Blank, I., **Ryskin, R.**, Kiran,  S., 
 
 Cain, E. & **Ryskin, R.** (preprint) [Semantic representations are updated across the lifespan reflecting diachronic language change.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4883002)
 
+**Ryskin, R.**, Gawel, O., Tanzer, O., Pailo, V., & Kello, C. (2025). [Efficient Audience Design in LLMs](https://escholarship.org/uc/item/6zm2f1n3). In _Proceedings of the Annual Meeting of the Cognitive Science Society_ (Vol. 47).
+
+Chao, A., Cain, E., & **Ryskin, R.** (2025). [Language experience and prediction across the lifespan: evidence from diachronic fine-tuning of language models.](https://escholarship.org/uc/item/83b1p2nz) In _Proceedings of the Annual Meeting of the Cognitive Science Society_ (Vol. 47).
+
+Gokcen, Y., Noelle, D. C., & **Ryskin, R.** (2025). [The Role of Context Gating in Predictive Sentence Processing](https://escholarship.org/uc/item/21w8j87z). In _Proceedings of the Annual Meeting of the Cognitive Science Society_ (Vol. 47).
+
+Li, J., Ortega, A. V., Futrell, R., & **Ryskin, R.** (2025). [Adaptation to noisy language input in real time: Evidence from ERPs](https://escholarship.org/uc/item/8cm7p4hw). In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 47).
+
 James, A. N., **Ryskin, R.**, Hartshorne, J. K., Backs, H., Bala, N., Barcenas-Meade, L., Bhattarai, S., Charles, T., Copoulos, G., Coss, C., Eisert, A., Furuhashi, E., Ginell, K., Guttman-McCabe, A., Hoban, L., Hwang, W. A., Iannetta, C., Koenig, K. M., Lo, C., … de Leeuw, J. R. (2025).
 [What Paradigms Can Webcam Eye-Tracking Be Used For? Attempted Replications of Five Cognitive Science Experiments](https://doi.org/10.1525/collabra.140755). _Collabra: Psychology_, 11(1).
 
-Cain, E. & **Ryskin, R.**, Yu, C. (2025) [Cross-Situational Statistics Present in an Early Language Learning Context: Evidence From Naturalistic Parent–Child Interactions](https://doi.org/10.1111/cogs.70078). _Cognitive Science_. [[PDF](https://escholarship.org/uc/item/3vq7v1s8)]
+Cain, E., **Ryskin, R.**, & Yu, C. (2025) [Cross-Situational Statistics Present in an Early Language Learning Context: Evidence From Naturalistic Parent–Child Interactions](https://doi.org/10.1111/cogs.70078). _Cognitive Science_. [[PDF](https://escholarship.org/uc/item/3vq7v1s8)]
 
 **Ryskin, R.**, Gibson, E., & Kiran, S. (2025) [Noisy-channel language comprehension in aphasia: A Bayesian mixture modeling approach](https://doi.org/10.3758/s13423-025-02639-z). _Psychonomic Bulletin & Review_.
 
