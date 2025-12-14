@@ -22,6 +22,8 @@ img {
 
 ```{r, include=FALSE, echo = F}
 library(icons)
+custom <- icons::icon_set("brands")
+#custom$bluesky
 ```
 
 # Rachel Ryskin
@@ -32,9 +34,11 @@ library(icons)
 [`r icon_style(academicons("google-scholar"), scale = 2, fill = "#2c3e50")`](https://scholar.google.com/citations?user=Mir7CnMAAAAJ&hl=en) 
 [`r icon_style(fontawesome("github"), scale = 2, fill = "#2c3e50")`](https://github.com/raryskin)
 [`r icon_style(fontawesome("twitter"), scale = 2, fill = "#2c3e50")`](https://twitter.com/raryskin) 
+[`r icon_style(custom$bluesky, scale = 2, fill = "#2c3e50")`](https://bsky.app/profile/ryskin.bsky.social) 
 [`r icon_style(academicons("osf"), scale = 2, fill = "#2c3e50")`](https://osf.io/skpx5/)
 <a rel="me" href="https://mstdn.social/@raryskin"></a>
 </div>
+
 
 <div class="row" style="text-align: justify; text-justify: inter-word;  padding-top: 2px;padding-right: 20px;padding-left: 20px">
 ### Research
