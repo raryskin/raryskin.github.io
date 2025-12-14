@@ -9,9 +9,11 @@ output: html_document
 </style>
 <div class="row" style="text-align: justify;  text-justify: inter-word; padding-top: 20px; padding-right: 20px; padding-left: 20px">
 
+Williams, T., Setzler, M., Aswamenakul, C., **Ryskin, R.**, Spivey, M. J., Kim, M., & Marghetis, T. (preprint). [Musical improvisation reveals the fine-grained foraging dynamics of collective innovation](https://doi.org/10.31234/osf.io/2uwka_v1).
+
 Billot, A., Jhingan, N., Varkanitsa, M., Blank, I., **Ryskin, R.**, Kiran,  S., & Fedorenko, E. (preprint) [The language network ages well: Preserved selectivity, lateralization, and within-network functional synchronization in older brains.](https://www.biorxiv.org/content/10.1101/2024.10.23.619954v1)
 
-Cain, E. & **Ryskin, R.** (preprint) [Semantic representations are updated across the lifespan reflecting diachronic language change.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4883002)
+Cain, E. & **Ryskin, R.** (in press) [Semantic representations are updated across the lifespan reflecting diachronic language change](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4883002). _Open Mind_
 
 **Ryskin, R.**, Gawel, O., Tanzer, O., Pailo, V., & Kello, C. (2025). [Efficient Audience Design in LLMs](https://escholarship.org/uc/item/6zm2f1n3). In _Proceedings of the Annual Meeting of the Cognitive Science Society_ (Vol. 47).
 
