@@ -13,7 +13,7 @@ Williams, T., Setzler, M., Aswamenakul, C., **Ryskin, R.**, Spivey, M. J., Kim, 
 
 Billot, A., Jhingan, N., Varkanitsa, M., Blank, I., **Ryskin, R.**, Kiran,  S., & Fedorenko, E. (preprint) [The language network ages well: Preserved selectivity, lateralization, and within-network functional synchronization in older brains.](https://www.biorxiv.org/content/10.1101/2024.10.23.619954v1)
 
-Cain, E. & **Ryskin, R.** (in press) [Semantic representations are updated across the lifespan reflecting diachronic language change](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4883002). _Open Mind_
+Cain, E. & **Ryskin, R.** (2025) [Semantic representations are updated across the lifespan reflecting diachronic language change](https://doi.org/10.1162/OPMI.a.315). _Open Mind_
 
 **Ryskin, R.**, Gawel, O., Tanzer, O., Pailo, V., & Kello, C. (2025). [Efficient Audience Design in LLMs](https://escholarship.org/uc/item/6zm2f1n3). In _Proceedings of the Annual Meeting of the Cognitive Science Society_ (Vol. 47).
 
