@@ -76,6 +76,9 @@ Ball L., Mak M., **Ryskin R.**, Curtis A., Rodd J., Gaskell MG. (2025) [The Cont
 
 Cain, E. & **Ryskin, R.** (2024). [Diachronic change in verb usage statistics predicts differences in sentence processing across the lifespan](https://aclanthology.org/2024.cmcl-1.19/). In _Proceedings of the Workshop on Cognitive Modeling and Computational Linguistics_, pages 221–230, Bangkok, Thailand. Association for Computational Linguistics.
 
+Poliak, M., **Ryskin, R.**, Braginsky, M., & Gibson, E. (2024). [It’s Not What You Say but How You Say It: Evidence from Russian Shows Robust Effects of the Structural Prior on Noisy Channel
+Inferences](https://doi.org/10.1037/xlm0001244). _Journal of Experimental Psychology: Learning, Memory, & Cognition_
+
 Williams, T., Setzler, M., Kim, M., **Ryskin, R. A.**, Spivey, M., & Marghetis, T. (2024). [Professional Jazz Musicians Explore and Exploit a Space of Sounds](https://escholarship.org/content/qt72b6c674/qt72b6c674.pdf). _Proceedings of the Cognitive Science Society_.
 
 ## 2023 {#2023}
@@ -91,8 +94,6 @@ Cain, E. & **Ryskin, R.** (2023). [Diachronic Language Change and Its Influence 
 
 Chen, S., Nathaniel, S., **Ryskin, R.**, & Gibson, E. (2023). [The effect of context on noisy-channel sentence comprehension](https://doi.org/10.1016/j.cognition.2023.105503). _Cognition_
 
-Poliak, M., **Ryskin, R.**, Braginsky, M., & Gibson, E. (2023). [It’s Not What You Say but How You Say It: Evidence from Russian Shows Robust Effects of the Structural Prior on Noisy Channel
-Inferences](https://doi.org/10.1037/xlm0001244). _Journal of Experimental Psychology: Learning, Memory, & Cognition_
 
 **Ryskin, R.**, Salinas, M., Piantadosi, S., & Gibson, E. (2023). [Real-time inference in communication across cultures: evidence from a non-industrialized society](https://doi.org/10.1037/xge0001345). _Journal of Experimental Psychology: General_. [[PsyArXiv](https://psyarxiv.com/ga83j/)]
 
