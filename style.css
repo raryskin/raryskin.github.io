@@ -1,0 +1,105 @@
+section {
+  padding-top: 70px;
+  margin-top: -70px;
+}
+
+img {
+  border-radius: 200px 200px 200px 200px;
+}
+/*.title {
+  display: none;
+}*/
+
+html { scroll-behavior: smooth; }
+
+
+/* Change the color of the Navbar, Links, and Buttons */
+.navbar-default {
+    background-color: #2c3e50 !important;
+    border-color: #2c3e50 !important;
+}
+
+/* Change link colors */
+a {
+    color: #2c3e50;
+}
+
+/* Change link color on hover */
+a:hover {
+    color: #1a252f;
+}
+
+/* Change the background of primary buttons */
+.btn-primary {
+    background-color: #2c3e50 !important;
+    border-color: #2c3e50 !important;
+}
+
+/* Change the color of the active item in the Table of Contents */
+.list-group-item.active, 
+.list-group-item.active:focus, 
+.list-group-item.active:hover {
+    background-color: #2c3e50 !important;
+    border-color: #2c3e50 !important;
+}
+
+
+/* 1. Add padding to the top of the page so content doesn't hit the browser edge */
+body {
+    padding-top: 50px;
+}
+
+/* 2. Style the TOC links (removing the journal theme's pink) */
+.list-group-item.active, 
+.list-group-item.active:focus, 
+.list-group-item.active:hover {
+    background-color: #2c3e50 !important; /* Change this to your preferred color */
+    border-color: #2c3e50 !important;
+}
+
+/* 3. Change the color of the text links in the TOC when hovered */
+#tocoffcanvas .nav li a:hover, .tocify-item:hover {
+    color: #2c3e50 !important;
+}
+
+/* 4. Optional: Make the TOC background slightly off-white for a polished look */
+.tocify {
+    border: none !important;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+}
+
+/* Force TOC text to be visible and dark */
+.tocify-item a {
+    color: #333 !important;
+    display: block !important;
+}
+
+/* Ensure the TOC container isn't hidden */
+#TOC {
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+}
+
+/* Fix the blank space at the top */
+.main-container {
+    max-width: 1200px;
+    margin-top: 20px;
+}
+
+/* Force the container to allow for a sidebar */
+.main-container {
+    margin-left: 250px !important; /* Makes room for TOC */
+    max-width: 900px !important;
+}
+
+/* Force the TOC to appear and stay on the left */
+#TOC {
+    position: fixed !important;
+    left: 20px !important;
+    top: 50px !important;
+    width: 230px !important;
+    display: block !important;
+    visibility: visible !important;
+}

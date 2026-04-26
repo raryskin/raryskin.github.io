@@ -11,12 +11,12 @@
 
 
 
-<title>About</title>
+<title>Rachel Ryskin</title>
 
 <script src="site_libs/header-attrs-2.30/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/journal.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
@@ -29,9 +29,10 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -42,22 +43,13 @@
   ul.task-list{list-style: none;}
     </style>
 
-<style type="text/css">code{white-space: pre;}</style>
-<script type="text/javascript">
-if (window.hljs) {
-  hljs.configure({languages: []});
-  hljs.initHighlightingOnLoad();
-  if (document.readyState && document.readyState === "complete") {
-    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
-  }
-}
-</script>
 
 
 
 
 
 
+<link rel="stylesheet" href="style-clean.css" type="text/css" />
 
 
 
@@ -91,80 +83,6 @@ pre code {
 </style>
 
 
-<style type="text/css">
-.dropdown-submenu {
-  position: relative;
-}
-.dropdown-submenu>.dropdown-menu {
-  top: 0;
-  left: 100%;
-  margin-top: -6px;
-  margin-left: -1px;
-  border-radius: 0 6px 6px 6px;
-}
-.dropdown-submenu:hover>.dropdown-menu {
-  display: block;
-}
-.dropdown-submenu>a:after {
-  display: block;
-  content: " ";
-  float: right;
-  width: 0;
-  height: 0;
-  border-color: transparent;
-  border-style: solid;
-  border-width: 5px 0 5px 5px;
-  border-left-color: #cccccc;
-  margin-top: 5px;
-  margin-right: -10px;
-}
-.dropdown-submenu:hover>a:after {
-  border-left-color: #adb5bd;
-}
-.dropdown-submenu.pull-left {
-  float: none;
-}
-.dropdown-submenu.pull-left>.dropdown-menu {
-  left: -100%;
-  margin-left: 10px;
-  border-radius: 6px 0 6px 6px;
-}
-</style>
-
-<script type="text/javascript">
-// manage active state of menu based on current page
-$(document).ready(function () {
-  // active menu anchor
-  href = window.location.pathname
-  href = href.substr(href.lastIndexOf('/') + 1)
-  if (href === "")
-    href = "index.html";
-  var menuAnchor = $('a[href="' + href + '"]');
-
-  // mark the anchor link active (and if it's in a dropdown, also mark that active)
-  var dropdown = menuAnchor.closest('li.dropdown');
-  if (window.bootstrap) { // Bootstrap 4+
-    menuAnchor.addClass('active');
-    dropdown.find('> .dropdown-toggle').addClass('active');
-  } else { // Bootstrap 3
-    menuAnchor.parent().addClass('active');
-    dropdown.addClass('active');
-  }
-
-  // Navbar adjustments
-  var navHeight = $(".navbar").first().height() + 15;
-  var style = document.createElement('style');
-  var pt = "padding-top: " + navHeight + "px; ";
-  var mt = "margin-top: -" + navHeight + "px; ";
-  var css = "";
-  // offset scroll position for anchor links (for fixed navbar)
-  for (var i = 1; i <= 6; i++) {
-    css += ".section h" + i + "{ " + pt + mt + "}\n";
-  }
-  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
-  document.head.appendChild(style);
-});
-</script>
 
 <!-- tabsets -->
 
@@ -219,6 +137,69 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -228,58 +209,32 @@ $(document).ready(function () {
 <div class="container-fluid main-container">
 
 
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
-<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
-  <div class="container">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="index.html">Rachel Ryskin</a>
-    </div>
-    <div id="navbar" class="navbar-collapse collapse">
-      <ul class="nav navbar-nav">
-        <li>
-  <a href="index.html">About</a>
-</li>
-<li>
-  <a href="publications.html">Publications</a>
-</li>
-      </ul>
-      <ul class="nav navbar-nav navbar-right">
-        
-      </ul>
-    </div><!--/.nav-collapse -->
-  </div><!--/.container -->
-</div><!--/.navbar -->
+
 
 <div id="header">
 
 
 
-<h1 class="title toc-ignore">About</h1>
+<h1 class="title toc-ignore">Rachel Ryskin</h1>
 
 </div>
 
 
-<style type="text/css">
-.title {
-  display: none;
-}
-img {
-  border-radius: 200px 200px 200px 200px;
-}
-
-</style>
-<div class="row"
-style="text-align: center; padding-top: 50px; padding-right: 20px;padding-left: 20px">
-<p><img src="images/Ryskin_Rachel_200910-1-cropped-square.jpeg" alt="photo" width="200" height="200" style="float:center"></p>
-<div id="rachel-ryskin" class="section level1">
+<div id="ryskin" class="section level1">
 <h1>Rachel Ryskin</h1>
+<p><img src="images/Ryskin_Rachel_200910-1-cropped-square.jpeg" alt="photo" width="200" height="200" style="float:center"></p>
 <p><code>rryskin@ucmerced.edu</code></p>
+<div class="icon-links">
 <p><a
 href="pdfs/CV_RARyskin.pdf"><svg viewBox="0 0 512 512" style="position:relative;display:inline-block;top:.1em;fill:#2c3e50;height:2em;" xmlns="http://www.w3.org/2000/svg">
 <g groupmode="layer" id="layer6" label="icon">
@@ -305,50 +260,334 @@ href="https://osf.io/skpx5/"><svg viewBox="0 0 512 512" style="position:relative
 <a rel="me" href="https://mstdn.social/@raryskin"></a></p>
 </div>
 </div>
-<div class="row"
-style="text-align: justify; text-justify: inter-word;  padding-top: 2px;padding-right: 20px;padding-left: 20px">
-<div id="research" class="section level3">
-<h3>Research</h3>
-<p><strong>How do humans understand each other?</strong> I study how
-individuals make sophisticated inferences, in real time, during
-communication in order to extract meaning from language input that can
-be noisy and ambiguous. I combine insights from eye-tracking, EEG,
-computational approaches, fieldwork, and neuropsychology to understand
-1) how people use various sources of information (visuo-spatial
-perspective, the speaker’s knowledge state, language statistics, etc.)
-to generate and constrain their linguistic predictions, and 2) how
-lifelong learning allows inferences to be adaptive when the environment
-changes.</p>
-</div>
-<div id="academic-bio" class="section level3">
-<h3>Academic bio</h3>
+<div id="about" class="section level1">
+<h1>About</h1>
 <p>I’m an Associate Professor of <a
 href="https://cogsci.ucmerced.edu">Cognitive &amp; Information
-Sciences</a> at the University of California, Merced. Check out the <a
+Sciences</a> at the University of California, Merced where I lead the <a
 href="https://linclab0.github.io">Language, Interaction, &amp; Cognition
-(LInC) lab</a> webpage for more details!</p>
-<p>Previously, I worked as a postdoc with <a
-href="http://tedlab.mit.edu/">Ted Gibson</a> and <a
-href="http://evlab.mit.edu/">Ev Fedorenko</a> in the Department of Brain
-and Cognitive Sciences at MIT and <a
-href="http://www.bu.edu/aphasiaresearch/">Swathi Kiran</a> in Speech,
-Language, and Hearing Science at Boston University. I got my PhD in
-Cognitive Psychology at the University of Illinois at Urbana-Champaign
-where I worked primarily with <a
-href="http://sarahbrownschmidt.com/professional/">Sarah
-Brown-Schmidt</a> and <a
-href="http://www.psych.illinois.edu/~asbenjam/">Aaron Benjamin</a>.
-Before grad school, I got a B.A. in Cognitive Science from Northwestern
-University, where I studied memory for inaccurate information in text in
-<a href="https://rapplab.sesp.northwestern.edu/index.html">David
-Rapp</a>’s lab and how verbal labels help children learn relational
-concepts in <a href="http://groups.psych.northwestern.edu/poct/">Dedre
-Gentner</a>’s lab.</p>
+(LInC) lab</a>.</p>
+<p>My research largely centers around a fundamental question:
+<strong>How do humans understand each other?</strong> Language allows
+humans to transfer thoughts across minds, transforming individual
+cognition into collective intelligence. I study how humans use language
+to communicate on multiple <strong>timescales</strong>, including how
+people use all manner of contextual information (visuo-spatial
+perspective, the speaker’s knowledge state, language statistics, etc.)
+to make <strong>predictions</strong> and <strong>infer</strong> meaning
+from noisy input in real time, how <strong>conversation partners
+adapt</strong> to each other over the course of an
+<strong>interaction</strong>, how language and its <strong>relationship
+to other cognitive systems</strong> (e.g., executive function) changes
+over the <strong>lifespan</strong> or as a result of <strong>neural
+damage</strong>, and how <strong>changes in the language</strong> as a
+whole <strong>emerge</strong> from—and result in—variation in language
+use across individuals. Recently, I have begun investigating how
+communication with <strong>Large Language Models (LLMs)</strong> mirrors
+or diverges from human communication, using these comparisons to gain
+insights into both biological and artificial cognitive systems. To
+answer these questions, I take a multi-method approach including
+behavioral experiments, eye-tracking, EEG, corpus analyses,
+computational modeling, and—in collaboration with other
+labs—cross-cultural fieldwork, fMRI, and neuropsychology. This work has
+been funded by the NIH, the University of California Office of the
+President, and an NSF CAREER award.</p>
+<!--Previously, I worked as a postdoc with [Ted Gibson](http://tedlab.mit.edu/) and [Ev Fedorenko](http://evlab.mit.edu/) in the Department of Brain and Cognitive Sciences at MIT and [Swathi Kiran](http://www.bu.edu/aphasiaresearch/) in Speech, Language, and Hearing Science at Boston University. I got my PhD in Cognitive Psychology at the University of Illinois at Urbana-Champaign where I worked primarily with [Sarah Brown-Schmidt](http://sarahbrownschmidt.com/professional/) and [Aaron Benjamin](http://www.psych.illinois.edu/~asbenjam/). Before grad school, I got a B.A. in Cognitive Science from Northwestern University, where I studied memory for inaccurate information in text in [David Rapp](https://rapplab.sesp.northwestern.edu/index.html)'s lab and how verbal labels help children learn relational concepts in [Dedre Gentner](http://groups.psych.northwestern.edu/poct/)'s lab. -->
+</div>
+<div id="publications" class="section level1">
+<h1>Publications</h1>
+<div id="id_2026" class="section level2">
+<h2>2026 / Preprints / To appear</h2>
+<p>Billot, A., Varkanitsa, M., Jhingan, N., Carvalho, N., Falconer, I.,
+Small, H., <strong>Ryskin, R.</strong>, Blank, I., Fedorenko, E., &amp;
+Kiran, S. (preprint) <a
+href="https://doi.org/10.64898/2026.03.16.26348460">Language
+comprehension in chronic aphasia relies on the language network, not the
+Multiple Demand network</a>. <em>bioRxiv</em></p>
+<p>Williams, T., Setzler, M., Aswamenakul, C., <strong>Ryskin,
+R.</strong>, Spivey, M. J., Kim, M., &amp; Marghetis, T. (preprint). <a
+href="https://doi.org/10.31234/osf.io/2uwka_v1">Musical improvisation
+reveals the fine-grained foraging dynamics of collective innovation</a>.
+<em>OSF</em></p>
+<p>Billot, A., Jhingan, N., Varkanitsa, M., Wolna, A., Shain, C., Blank,
+I., <strong>Ryskin, R.</strong>, Kiran, S., &amp; Fedorenko, E.
+(preprint) <a href="https://doi.org/10.1101/2024.10.23.619954">The
+language network ages well: topography, lateralization, selectivity, and
+within-network functional connectivity in older brains.</a>
+<em>bioRxiv</em></p>
+</div>
+<div id="id_2025" class="section level2">
+<h2>2025</h2>
+<p>Cain, E. &amp; <strong>Ryskin, R.</strong> (2025) <a
+href="https://doi.org/10.1162/OPMI.a.315">Semantic representations are
+updated across the lifespan reflecting diachronic language change</a>.
+<em>Open Mind</em></p>
+<p><strong>Ryskin, R.</strong>, Gawel, O., Tanzer, O., Pailo, V., &amp;
+Kello, C. (2025). <a
+href="https://escholarship.org/uc/item/6zm2f1n3">Efficient Audience
+Design in LLMs</a>. In <em>Proceedings of the Annual Meeting of the
+Cognitive Science Society</em> (Vol. 47).</p>
+<p>Chao, A., Cain, E., &amp; <strong>Ryskin, R.</strong> (2025). <a
+href="https://escholarship.org/uc/item/83b1p2nz">Language experience and
+prediction across the lifespan: evidence from diachronic fine-tuning of
+language models.</a> In <em>Proceedings of the Annual Meeting of the
+Cognitive Science Society</em> (Vol. 47).</p>
+<p>Gokcen, Y., Noelle, D. C., &amp; <strong>Ryskin, R.</strong> (2025).
+<a href="https://escholarship.org/uc/item/21w8j87z">The Role of Context
+Gating in Predictive Sentence Processing</a>. In <em>Proceedings of the
+Annual Meeting of the Cognitive Science Society</em> (Vol. 47).</p>
+<p>Li, J., Ortega, A. V., Futrell, R., &amp; <strong>Ryskin, R.</strong>
+(2025). <a href="https://escholarship.org/uc/item/8cm7p4hw">Adaptation
+to noisy language input in real time: Evidence from ERPs</a>. In
+<em>Proceedings of the Annual Meeting of the Cognitive Science
+Society</em> (Vol. 47).</p>
+<p>James, A. N., <strong>Ryskin, R.</strong>, Hartshorne, J. K., Backs,
+H., Bala, N., Barcenas-Meade, L., Bhattarai, S., Charles, T., Copoulos,
+G., Coss, C., Eisert, A., Furuhashi, E., Ginell, K., Guttman-McCabe, A.,
+Hoban, L., Hwang, W. A., Iannetta, C., Koenig, K. M., Lo, C., … de
+Leeuw, J. R. (2025). <a
+href="https://doi.org/10.1525/collabra.140755">What Paradigms Can Webcam
+Eye-Tracking Be Used For? Attempted Replications of Five Cognitive
+Science Experiments</a>. <em>Collabra: Psychology</em>, 11(1).</p>
+<p>Cain, E., <strong>Ryskin, R.</strong>, &amp; Yu, C. (2025) <a
+href="https://doi.org/10.1111/cogs.70078">Cross-Situational Statistics
+Present in an Early Language Learning Context: Evidence From
+Naturalistic Parent–Child Interactions</a>. <em>Cognitive Science</em>.
+[<a href="https://escholarship.org/uc/item/3vq7v1s8">PDF</a>]</p>
+<p><strong>Ryskin, R.</strong>, Gibson, E., &amp; Kiran, S. (2025) <a
+href="https://doi.org/10.3758/s13423-025-02639-z">Noisy-channel language
+comprehension in aphasia: A Bayesian mixture modeling approach</a>.
+<em>Psychonomic Bulletin &amp; Review</em>.</p>
+<p>Ball L., Mak M., <strong>Ryskin R.</strong>, Curtis A., Rodd J.,
+Gaskell MG. (2025) <a
+href="https://doi.org/10.1016/j.jml.2024.104595">The Contribution of
+Learning and Memory Processes to Verb-Specific Syntactic Processing</a>.
+<em>Journal of Memory &amp; Language</em>.</p>
+</div>
+<div id="id_2024" class="section level2">
+<h2>2024</h2>
+<p>Cain, E. &amp; <strong>Ryskin, R.</strong> (2024). <a
+href="https://aclanthology.org/2024.cmcl-1.19/">Diachronic change in
+verb usage statistics predicts differences in sentence processing across
+the lifespan</a>. In <em>Proceedings of the Workshop on Cognitive
+Modeling and Computational Linguistics</em>, pages 221–230, Bangkok,
+Thailand. Association for Computational Linguistics.</p>
+<p>Williams, T., Setzler, M., Kim, M., <strong>Ryskin, R. A.</strong>,
+Spivey, M., &amp; Marghetis, T. (2024). <a
+href="https://escholarship.org/content/qt72b6c674/qt72b6c674.pdf">Professional
+Jazz Musicians Explore and Exploit a Space of Sounds</a>.
+<em>Proceedings of the Cognitive Science Society</em>.</p>
+</div>
+<div id="id_2023" class="section level2">
+<h2>2023</h2>
+<p><strong>Ryskin, R.</strong> &amp; Spivey, M. (2023). <a
+href="https://doi.org/10.1016/j.plrev.2023.10.022">Toward sophisticated
+models of naturalistic language behavior</a>. <em>Physics of Life
+Reviews</em>. [<a
+href="pdfs/Ryskin%20and%20Spivey%20-%202023%20-%20Toward%20sophisticated%20models%20of%20naturalistic%20langua.pdf">PDF</a>].
+<br>      Comment on <a
+href="https://doi.org/10.1016/j.plrev.2023.07.006">“Beyond Simple
+Laboratory Studies”</a> by A. Maselli et al. (2023)</p>
+<p>Ricciardi, G., <strong>Ryskin, R.</strong>, &amp; Gibson, E. (2023).
+<a href="https://doi.org/10.1353/lan.2023.a914190">Assessing the
+inferential strength of epistemic ‘must’</a>. <em>Language</em></p>
+<p><strong>Ryskin, R.</strong> &amp; Nieuwland, M. (2023). <a
+href="https://doi.org/10.1016/j.tics.2023.08.003">Prediction during
+language comprehension: what is next?</a> <em>Trends in Cognitive
+Sciences</em></p>
+<p>Cain, E. &amp; <strong>Ryskin, R.</strong> (2023). <a
+href="https://escholarship.org/uc/item/943334rm">Diachronic Language
+Change and Its Influence on Lexico-semantic Representations Across the
+Lifespan</a>. <em>Proceedings of the Annual Meeting of the Cognitive
+Science Society, Sydney, AUS</em></p>
+<p>Chen, S., Nathaniel, S., <strong>Ryskin, R.</strong>, &amp; Gibson,
+E. (2023). <a href="https://doi.org/10.1016/j.cognition.2023.105503">The
+effect of context on noisy-channel sentence comprehension</a>.
+<em>Cognition</em></p>
+<p>Poliak, M., <strong>Ryskin, R.</strong>, Braginsky, M., &amp; Gibson,
+E. (2023). <a href="https://doi.org/10.1037/xlm0001244">It’s Not What
+You Say but How You Say It: Evidence from Russian Shows Robust Effects
+of the Structural Prior on Noisy Channel Inferences</a>. <em>Journal of
+Experimental Psychology: Learning, Memory, &amp; Cognition</em></p>
+<p><strong>Ryskin, R.</strong>, Salinas, M., Piantadosi, S., &amp;
+Gibson, E. (2023). <a
+href="https://doi.org/10.1037/xge0001345">Real-time inference in
+communication across cultures: evidence from a non-industrialized
+society</a>. <em>Journal of Experimental Psychology: General</em>. [<a
+href="https://psyarxiv.com/ga83j/">PsyArXiv</a>]</p>
+<p>Chen, X., Affourtit, J., <strong>Ryskin, R.</strong>, Regev, T.,
+Norman-Haignere, S., Jouravlev, O., Malik-Moraleda, S., Kean, H.,
+Varley, R., &amp; Fedorenko, E. (2023). <a
+href="https://doi.org/10.1093/cercor/bhad087">The human language system
+does not support music processing</a>. <em>Cerebral Cortex</em> [<a
+href="https://doi.org/10.1101/2021.06.01.446439">bioRxiv</a>]</p>
+<p>Zhang, Z., Bergen, L., Paunov, A., <strong>Ryskin, R.</strong>, &amp;
+Gibson, E. (2023). <a href="https://doi.org/10.1111/cogs.13238">Scalar
+Implicature is Sensitive to Contextual Alternatives</a>. <em>Cognitive
+Science, 47(2)</em>, e13238.</p>
+<p>Zhang, Y., <strong>Ryskin, R.</strong>, &amp; Gibson, E. (2023). <a
+href="https://doi.org/10.1016/j.cognition.2022.105346">A Noisy-Channel
+Approach to Depth-Charge Illusions</a>. <em>Cognition</em>. [<a
+href="https://ssrn.com/abstract=4130042">Preprint</a>]</p>
+</div>
+<div id="id_2022" class="section level2">
+<h2>2022</h2>
+<p>Fedorenko, E., <strong>Ryskin, R.</strong>, Gibson, E. (2022). <a
+href="https://doi.org/10.1080/02687038.2022.2143233">Agrammatic output
+in non-fluent/Broca’s aphasia as a rational behavior</a>.
+<em>Aphasiology</em></p>
+<p>Cain, E., <strong>Ryskin, R.</strong>, &amp; Yu, C. (2022). <a
+href="https://escholarship.org/uc/item/7w66j9bd">Quantifying
+cross-situational statistics during parent-child toy play</a>.
+<em>Proceedings of the Annual Meeting of the Cognitive Science Society,
+Toronto, CA</em></p>
+<p>Rezaii, N., Mahowald, K, <strong>Ryskin, R.</strong>, Dickerson, B.
+&amp; Gibson, E. (2022). <a
+href="https://doi.org/10.1073/pnas.2120203119">A Lexico-Syntactic
+Trade-off in Language Production: Evidence from Primary Progressive
+Aphasia</a>. <em>Proceedings of the National Academy of Sciences, 119
+(25)</em>. e2120203119.</p>
+<p>Liu, Y., <strong>Ryskin, R.</strong>, Futrell, R., &amp; Gibson, E.
+(2022). <a href="https://doi.org/10.1016/j.cognition.2021.104902">A
+verb-frame frequency account of constraints on long-distance
+dependencies in English</a>. <em>Cognition</em>, 222, 104902.</p>
+</div>
+<div id="id_2021" class="section level2">
+<h2>2021</h2>
+<p><strong>Ryskin, R.</strong>, Bergen, L., &amp; Gibson, E. (2021,
+preprint). Agreement errors are predicted by rational inference in
+sentence processing. <a
+href="https://doi.org/10.31234/osf.io/uaxsq">[PsyArXiv]</a></p>
+<p><strong>Ryskin, R.</strong>, &amp; Fang, X. (2021). <a
+href="https://doi.org/10.1016/bs.plm.2021.08.001">The Many Timescales of
+Context in Language Processing</a>. <em>Psychology of Learning and
+Motivation</em>. <a
+href="pdfs/Ryskin%20and%20Fang%20-%202021%20-%20The%20many%20timescales%20of%20context%20in%20language%20process.pdf">[PDF]</a></p>
+<p><strong>Ryskin, R.</strong>, Stearns, L., Bergen, L., Eddy, M.,
+Fedorenko, E., &amp; Gibson, E. (2021). <a
+href="https://doi.org/10.1016/j.neuropsychologia.2021.107855">An ERP
+index of real-time error correction within a noisy-channel framework of
+human communication</a>. <em>Neuropsychologia, 158</em>, 107855. [<a
+href="https://escholarship.org/uc/item/8f72t5x7">UC Open Access</a>]</p>
+</div>
+<div id="id_2020" class="section level2">
+<h2>2020</h2>
+<p><strong>Ryskin, R.</strong>, Stevenson, S., &amp; Heller, D. (2020).
+<a
+href="https://cognitivesciencesociety.org/cogsci20/papers/0050/index.html">Probabilistic
+weighting of perspectives in dyadic communication</a>. <em>Proceedings
+of the Annual Meeting of the Cognitive Science Society</em>. [<a
+href="pdfs/probabilisticweighting_0525.pdf">PDF</a>] [<a
+href="https://github.com/raryskin/dyadPT">data &amp; code</a>]</p>
+<p><strong>Ryskin, R.</strong>, Levy, R. P., &amp; Fedorenko, E. (2020).
+<a href="https://doi.org/10.1016/j.neuropsychologia.2019.107258">Do
+domain-general executive resources play a role in linguistic prediction?
+Re-evaluation of the evidence and a path forward</a>.
+<em>Neuropsychologia, 136</em>, 107258. [<a
+href="pdfs/Ryskin,%20Levy,%20&amp;%20Fedorenko%20(2019).pdf">PDF</a>]</p>
+</div>
+<div id="id_2019" class="section level2">
+<h2>2019</h2>
+<p><strong>Ryskin, R.</strong>, Kurumada, C., &amp; Brown‐Schmidt, S.
+(2019). <a href="https://doi.org/10.1111/cogs.12769">Information
+integration in modulation of pragmatic inferences during online language
+comprehension</a>. <em>Cognitive science, 43(8)</em>, e12769. [<a
+href="https://osf.io/5geba/">OSF project</a>] [<a
+href="pdfs/Ryskin_Kurumada_Brown-Schmidt_2019.pdf">PDF</a>]</p>
+<p><strong>Ryskin, R</strong>., Ng, S., Mimnaugh, K., Brown-Schmidt, S.,
+&amp; Federmeier, K. D. (2019). <a
+href="https://doi.org/10.1080/23273798.2019.1630654">Talker-specific
+predictions during language processing</a>. <em>Language, Cognition,
+&amp; Neuroscience, 35 (6)</em>. 797-812. [<a
+href="https://osf.io/72p9m/">OSF project</a>] [<a
+href="https://www.tandfonline.com/eprint/RSZWGBBCGSPBMZZ6BCPR/full?target=10.1080/23273798.2019.1630654">Free
+download</a>]</p>
+</div>
+<div id="id_2018" class="section level2">
+<h2>2018</h2>
+<p><strong>Ryskin, R</strong>. Futrell, R., Kiran, S., &amp; Gibson, E.
+(2018). <a
+href="https://www.sciencedirect.com/science/article/pii/S0010027718302245">Comprehenders
+model the nature of noise in the environment</a>. <em>Cognition,
+181</em>. 141-150. <strong>Preregistration Challenge Winner</strong> [<a
+href="https://osf.io/rkrha/">OSF project</a>] [<a
+href="pdfs/Ryskin_Futrell_Kiran_Gibson_ACCEPTED.pdf">Manuscript
+PDF</a>]</p>
+<p><strong>Ryskin, R.</strong>, Qi, Z., Covington, N. V., Duff, M.,
+&amp; Brown-Schmidt, S. (2018). <a
+href="https://www.sciencedirect.com/science/article/pii/S0093934X17302651">Knowledge
+and learning of verb biases in amnesia</a>. <em>Brain and Language,
+180-182</em>. 62–83. [<a href="https://osf.io/h84wr">Manuscript
+PDF</a>]</p>
+</div>
+<div id="id_2017" class="section level2">
+<h2>2017</h2>
+<p><strong>Ryskin, R.</strong> &amp; Brown-Schmidt, S. (2017). The
+malleability of linguistic representations poses a challenge to the
+priming-based experimental approach. <em>Behavioral and Brain Sciences,
+40</em>, E309. [<a
+href="https://osf.io/preprints/psyarxiv/z642t">PDF</a>] <br>
+     Commentary on Branigan &amp; Pickering (2017), <em>An Experimental
+Approach to Linguistic Representation</em>.</p>
+<p><strong>Ryskin, R.</strong>, Qi, Z., Duff, M., &amp; Brown-Schmidt,
+S. (2017). Verb biases are shaped through lifelong learning. <em>Journal
+of Experimental Psychology: Learning, Memory, and Cognition, 43.</em>
+781-794. [<a
+href="pdfs/Ryskin,%20Qi,%20Duff,%20Brown-Schmidt%20(in%20press).pdf">PDF</a>]</p>
+</div>
+<div id="id_2016" class="section level2">
+<h2>2016</h2>
+<p><strong>Ryskin, R.</strong>, Wang, R. F., &amp; Brown-Schmidt, S.
+(2016). Listeners use speaker identity to access representations of
+spatial perspective during online language comprehension. <em>Cognition,
+147</em>, 75-84. [<a
+href="pdfs/Ryskin,%20Wang,%20&amp;%20Brown-Schmidt%20(2016).pdf">PDF</a>]</p>
+</div>
+<div id="id_2015" class="section level2">
+<h2>2015</h2>
+<p><strong>Ryskin, R.</strong>, Benjamin, A. S., Tullis, J. &amp;
+Brown-Schmidt, S. (2015). Perspective-taking in comprehension,
+production, and memory: an individual differences approach. <em>Journal
+of Experimental Psychology: General,144</em>, 898-915. [<a
+href="pdfs/Ryskin,%20Benjamin,%20Tullis,%20Brown-Schmidt%20(2015).pdf">PDF</a>]</p>
+<p><strong>Ryskin, R.</strong>., Yoon, S., &amp; Brown-Schmidt (2015).
+<a href="https://doi.org/10.1002/9781118900772.etrds0200">Language,
+Memory, and Perspectives</a>, in <em>Emerging Trends in the Social and
+Behavioral Sciences</em> (eds.) Robert Scott and Stephen Kosslyn,
+Hoboken, NJ: John Wiley and Sons. [<a
+href="pdfs/Ryskin,Yoon,%20Brown-Schmidt%20(2015).pdf">PDF</a>]</p>
+<p>Brown-Schmidt, S., Yoon, S., &amp; <strong>Ryskin, R. A.</strong>
+(2015). People as Contexts in Conversation. In B. H. Ross (Ed.),
+<em>Psychology of Learning and Motivation</em>, Vol. 62, pp. 59-99. San
+Diego, CA: Elsevier Academic Press. [<a
+href="pdfs/Brown-Schmidt%20-%20Psych%20of%20Learning%20and%20Motivation.pdf">PDF</a>]</p>
+</div>
+<div id="id_2014" class="section level2">
+<h2>2014</h2>
+<p><strong>Ryskin, R.</strong>, Brown-Schmidt, S., Canseco-Gonzalez, E.,
+Yiu, L., &amp; Nguyen, E. (2014). <a
+href="https://doi.org/10.1016/j.jml.2014.04.003">Visuospatial
+perspective-taking in conversation and the role of bilingual
+experience</a>. <em>Journal of Memory and Language, 74</em>, 46-76. [<a
+href="pdfs/Ryskin,etal2014.pdf">PDF</a>]</p>
+<p><strong>Ryskin, R.</strong> &amp; Brown-Schmidt, S. (2014). <a
+href="https://doi.org/10.1371/journal.pone.0092406">Do adults show a
+curse of knowledge in false-belief reasoning? A robust estimate of the
+true effect size</a>. <em>PLoS ONE, 9</em>(3): e92406. [<a
+href="pdfs/Ryskin&amp;Brown-Schmidt(2014)-Vicki.pdf">PDF</a>]</p>
+Rapp, D.N., Hinze, S.R., Kohlhepp, K., &amp; <strong>Ryskin, R.</strong>
+(2014). <a href="https://doi.org/10.3758/s13421-013-0339-0">Reducing
+reliance on inaccurate information</a>. <em>Memory &amp; Cognition,
+42</em>, 11-26.[<a
+href="pdfs/Rapp,%20Hinze,%20Kohlhepp.%20&amp;%20Ryskin,%202014.pdf">PDF</a>]
 </div>
 </div>
+</div>
 
 
 
+</div>
+</div>
 
 </div>
 
@@ -381,6 +620,35 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

@@ -1,14 +1,51 @@
-name: "my-website"
+name: "Rachel Ryskin"
 output_dir: "."
-navbar:
-  title: "Rachel Ryskin"
-  left:
-    - text: "About"
-      href: index.html
-    - text: "Publications"
-      href: publications.html
-    #- text: "Presentations"
-    #  href: presentations.html
+# navbar:
+#   title: "Rachel Ryskin"
+#   type: inverse
+#   left:
+#     - text: "About"
+#       href: "#about"
+#     - text: "Publications"
+#       href: "#publications"
+#       menu:
+#         - text: "2026"
+#           href: "#2026"
+#         - text: "2025"
+#           href: "#2025"
+#         - text: "2024"
+#           href: "#2024"
+#         - text: "2023"
+#           href: "#2023"
+#         - text: "2022"
+#           href: "#2022"
+#         - text: "2021"
+#           href: "#2021"
+#         - text: "2020"
+#           href: "#2020"
+#         - text: "2019"
+#           href: "#2019"
+#         - text: "2018"
+#           href: "#2018"
+#         - text: "2017"
+#           href: "#2017"
+#         - text: "2016"
+#           href: "#2016"
+#         - text: "2015"
+#           href: "#2015"
+#         - text: "2014"
+#           href: "#2014"
+
 output:
   html_document:
-    theme: cosmo
+    theme: journal
+    highlight: tango
+    toc: true
+    toc_float: true
+      #collapsed: false
+      #smooth_scroll: true
+    #toc_depth: 3
+    #number_sections: false
+    # This prevents the TOC from getting messy on a single page
+    self_contained: true
+    css: style-clean.css

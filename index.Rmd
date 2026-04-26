@@ -1,22 +1,11 @@
 ---
-title: "About"
-output: html_document
+title: "Rachel Ryskin"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
 
 ---
-
-<style type="text/css">
-.title {
-  display: none;
-}
-img {
-  border-radius: 200px 200px 200px 200px;
-}
-
-</style>
-
-<div class="row" style="text-align: center; padding-top: 50px; padding-right: 20px;padding-left: 20px">
-
-<img src="images/Ryskin_Rachel_200910-1-cropped-square.jpeg" alt="photo" width="200" height="200" style="float:center">
 
 
 
@@ -26,10 +15,15 @@ custom <- icons::icon_set("brands")
 #custom$bluesky
 ```
 
-# Rachel Ryskin
+
+# Rachel Ryskin {#ryskin}
+
+
+<img src="images/Ryskin_Rachel_200910-1-cropped-square.jpeg" alt="photo" width="200" height="200" style="float:center">
 
 `rryskin@ucmerced.edu`
 
+<div class="icon-links">
 [`r icon_style(academicons("cv"), scale = 2, fill = "#2c3e50")`](pdfs/CV_RARyskin.pdf)
 [`r icon_style(academicons("google-scholar"), scale = 2, fill = "#2c3e50")`](https://scholar.google.com/citations?user=Mir7CnMAAAAJ&hl=en) 
 [`r icon_style(fontawesome("github"), scale = 2, fill = "#2c3e50")`](https://github.com/raryskin)
@@ -39,20 +33,141 @@ custom <- icons::icon_set("brands")
 <a rel="me" href="https://mstdn.social/@raryskin"></a>
 </div>
 
+# About {#about}
 
-<div class="row" style="text-align: justify; text-justify: inter-word;  padding-top: 2px;padding-right: 20px;padding-left: 20px">
-### Research
+I'm an Associate Professor of [Cognitive & Information Sciences](https://cogsci.ucmerced.edu) at the University of California, Merced where I lead the [Language, Interaction, & Cognition (LInC) lab](https://linclab0.github.io).  
 
-__How do humans understand each other?__ I study how individuals make sophisticated inferences, in real time, during communication in order to extract meaning from language input that can be noisy and ambiguous. I combine insights from eye-tracking, EEG, computational approaches, fieldwork, and neuropsychology to understand 1) how people use various sources of information (visuo-spatial perspective, the speaker's knowledge state, language statistics, etc.) to generate and constrain their linguistic predictions, and 2) how lifelong learning allows inferences to be adaptive when the environment changes. 
-
-
-### Academic bio
-
-I'm an Associate Professor of [Cognitive & Information Sciences](https://cogsci.ucmerced.edu) at the University of California, Merced. Check out the [Language, Interaction, & Cognition (LInC) lab](https://linclab0.github.io) webpage for more details!
-
-Previously, I worked as a postdoc with [Ted Gibson](http://tedlab.mit.edu/) and [Ev Fedorenko](http://evlab.mit.edu/) in the Department of Brain and Cognitive Sciences at MIT and [Swathi Kiran](http://www.bu.edu/aphasiaresearch/) in Speech, Language, and Hearing Science at Boston University. I got my PhD in Cognitive Psychology at the University of Illinois at Urbana-Champaign where I worked primarily with [Sarah Brown-Schmidt](http://sarahbrownschmidt.com/professional/) and [Aaron Benjamin](http://www.psych.illinois.edu/~asbenjam/). Before grad school, I got a B.A. in Cognitive Science from Northwestern University, where I studied memory for inaccurate information in text in [David Rapp](https://rapplab.sesp.northwestern.edu/index.html)'s lab and how verbal labels help children learn relational concepts in [Dedre Gentner](http://groups.psych.northwestern.edu/poct/)'s lab. 
+My research largely centers around a fundamental question: __How do humans understand each other?__ Language allows humans to transfer thoughts across minds, transforming individual cognition into collective intelligence. I study how humans use language to communicate on multiple __timescales__, including how people use all manner of contextual information (visuo-spatial perspective, the speaker's knowledge state, language statistics, etc.) to make __predictions__ and __infer__ meaning from noisy input in real time, how __conversation partners adapt__ to each other over the course of an __interaction__, how language and its __relationship to other cognitive systems__ (e.g., executive function) changes over the __lifespan__ or as a result of __neural damage__, and how __changes in the language__ as a whole __emerge__ from---and result in---variation in language use across individuals. Recently, I have begun investigating how communication with __Large Language Models (LLMs)__ mirrors or diverges from human communication, using these comparisons to gain insights into both biological and artificial cognitive systems. To answer these questions, I take a multi-method approach including behavioral experiments, eye-tracking, EEG, corpus analyses, computational modeling, and---in collaboration with other labs---cross-cultural fieldwork, fMRI, and neuropsychology. This work has been funded by the NIH, the University of California Office of the President, and an NSF CAREER award. 
 
 
+<!--Previously, I worked as a postdoc with [Ted Gibson](http://tedlab.mit.edu/) and [Ev Fedorenko](http://evlab.mit.edu/) in the Department of Brain and Cognitive Sciences at MIT and [Swathi Kiran](http://www.bu.edu/aphasiaresearch/) in Speech, Language, and Hearing Science at Boston University. I got my PhD in Cognitive Psychology at the University of Illinois at Urbana-Champaign where I worked primarily with [Sarah Brown-Schmidt](http://sarahbrownschmidt.com/professional/) and [Aaron Benjamin](http://www.psych.illinois.edu/~asbenjam/). Before grad school, I got a B.A. in Cognitive Science from Northwestern University, where I studied memory for inaccurate information in text in [David Rapp](https://rapplab.sesp.northwestern.edu/index.html)'s lab and how verbal labels help children learn relational concepts in [Dedre Gentner](http://groups.psych.northwestern.edu/poct/)'s lab. -->
+
+# Publications {#publications}
+
+## 2026 / Preprints / To appear {#2026}
+ Billot, A., Varkanitsa, M., Jhingan, N., Carvalho, N., Falconer, I., Small, H., **Ryskin, R.**, Blank, I., Fedorenko, E., & Kiran, S. (preprint) [Language comprehension in chronic aphasia relies on the language network, not the Multiple Demand network](https://doi.org/10.64898/2026.03.16.26348460). _bioRxiv_ 
+
+Williams, T., Setzler, M., Aswamenakul, C., **Ryskin, R.**, Spivey, M. J., Kim, M., & Marghetis, T. (preprint). [Musical improvisation reveals the fine-grained foraging dynamics of collective innovation](https://doi.org/10.31234/osf.io/2uwka_v1). _OSF_
+
+Billot, A., Jhingan, N., Varkanitsa, M., Wolna, A., Shain, C., Blank, I., **Ryskin, R.**, Kiran,  S., & Fedorenko, E. (preprint) [The language network ages well: topography, lateralization, selectivity, and within-network functional connectivity in older brains.](https://doi.org/10.1101/2024.10.23.619954) _bioRxiv_
+
+## 2025 {#2025}
+
+Cain, E. & **Ryskin, R.** (2025) [Semantic representations are updated across the lifespan reflecting diachronic language change](https://doi.org/10.1162/OPMI.a.315). _Open Mind_
+
+**Ryskin, R.**, Gawel, O., Tanzer, O., Pailo, V., & Kello, C. (2025). [Efficient Audience Design in LLMs](https://escholarship.org/uc/item/6zm2f1n3). In _Proceedings of the Annual Meeting of the Cognitive Science Society_ (Vol. 47).
+
+Chao, A., Cain, E., & **Ryskin, R.** (2025). [Language experience and prediction across the lifespan: evidence from diachronic fine-tuning of language models.](https://escholarship.org/uc/item/83b1p2nz) In _Proceedings of the Annual Meeting of the Cognitive Science Society_ (Vol. 47).
+
+Gokcen, Y., Noelle, D. C., & **Ryskin, R.** (2025). [The Role of Context Gating in Predictive Sentence Processing](https://escholarship.org/uc/item/21w8j87z). In _Proceedings of the Annual Meeting of the Cognitive Science Society_ (Vol. 47).
+
+Li, J., Ortega, A. V., Futrell, R., & **Ryskin, R.** (2025). [Adaptation to noisy language input in real time: Evidence from ERPs](https://escholarship.org/uc/item/8cm7p4hw). In _Proceedings of the Annual Meeting of the Cognitive Science Society_ (Vol. 47).
+
+James, A. N., **Ryskin, R.**, Hartshorne, J. K., Backs, H., Bala, N., Barcenas-Meade, L., Bhattarai, S., Charles, T., Copoulos, G., Coss, C., Eisert, A., Furuhashi, E., Ginell, K., Guttman-McCabe, A., Hoban, L., Hwang, W. A., Iannetta, C., Koenig, K. M., Lo, C., … de Leeuw, J. R. (2025).
+[What Paradigms Can Webcam Eye-Tracking Be Used For? Attempted Replications of Five Cognitive Science Experiments](https://doi.org/10.1525/collabra.140755). _Collabra: Psychology_, 11(1).
+
+Cain, E., **Ryskin, R.**, & Yu, C. (2025) [Cross-Situational Statistics Present in an Early Language Learning Context: Evidence From Naturalistic Parent–Child Interactions](https://doi.org/10.1111/cogs.70078). _Cognitive Science_. [[PDF](https://escholarship.org/uc/item/3vq7v1s8)]
+
+**Ryskin, R.**, Gibson, E., & Kiran, S. (2025) [Noisy-channel language comprehension in aphasia: A Bayesian mixture modeling approach](https://doi.org/10.3758/s13423-025-02639-z). _Psychonomic Bulletin & Review_.
+
+Ball L., Mak M., **Ryskin R.**, Curtis A., Rodd J., Gaskell MG. (2025) [The Contribution of Learning and Memory Processes to Verb-Specific Syntactic Processing](https://doi.org/10.1016/j.jml.2024.104595). _Journal of Memory & Language_.
+
+## 2024 {#2024}
+
+Cain, E. & **Ryskin, R.** (2024). [Diachronic change in verb usage statistics predicts differences in sentence processing across the lifespan](https://aclanthology.org/2024.cmcl-1.19/). In _Proceedings of the Workshop on Cognitive Modeling and Computational Linguistics_, pages 221–230, Bangkok, Thailand. Association for Computational Linguistics.
+
+Williams, T., Setzler, M., Kim, M., **Ryskin, R. A.**, Spivey, M., & Marghetis, T. (2024). [Professional Jazz Musicians Explore and Exploit a Space of Sounds](https://escholarship.org/content/qt72b6c674/qt72b6c674.pdf). _Proceedings of the Cognitive Science Society_.
+
+## 2023 {#2023}
+
+**Ryskin, R.** & Spivey, M. (2023). [Toward sophisticated models of naturalistic language behavior](https://doi.org/10.1016/j.plrev.2023.10.022). _Physics of Life Reviews_. [[PDF](pdfs/Ryskin and Spivey - 2023 - Toward sophisticated models of naturalistic langua.pdf)]. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Comment on ["Beyond Simple Laboratory Studies"](https://doi.org/10.1016/j.plrev.2023.07.006) by A. Maselli et al. (2023)
+
+Ricciardi, G., **Ryskin, R.**, \& Gibson, E. (2023). [Assessing the inferential strength of epistemic ‘must’](https://doi.org/10.1353/lan.2023.a914190). _Language_
+
+**Ryskin, R.** & Nieuwland, M. (2023). [Prediction during language comprehension: what is next?](https://doi.org/10.1016/j.tics.2023.08.003) _Trends in Cognitive Sciences_
+
+Cain, E. & **Ryskin, R.** (2023). [Diachronic Language Change and Its Influence on Lexico-semantic Representations Across the Lifespan](https://escholarship.org/uc/item/943334rm). _Proceedings of the Annual Meeting of the Cognitive Science Society, Sydney, AUS_
+
+Chen, S., Nathaniel, S., **Ryskin, R.**, & Gibson, E. (2023). [The effect of context on noisy-channel sentence comprehension](https://doi.org/10.1016/j.cognition.2023.105503). _Cognition_
+
+Poliak, M., **Ryskin, R.**, Braginsky, M., & Gibson, E. (2023). [It’s Not What You Say but How You Say It: Evidence from Russian Shows Robust Effects of the Structural Prior on Noisy Channel
+Inferences](https://doi.org/10.1037/xlm0001244). _Journal of Experimental Psychology: Learning, Memory, & Cognition_
+
+**Ryskin, R.**, Salinas, M., Piantadosi, S., & Gibson, E. (2023). [Real-time inference in communication across cultures: evidence from a non-industrialized society](https://doi.org/10.1037/xge0001345). _Journal of Experimental Psychology: General_. [[PsyArXiv](https://psyarxiv.com/ga83j/)]
+
+
+Chen, X., Affourtit, J., **Ryskin, R.**, Regev, T., Norman-Haignere, S., Jouravlev, O., Malik-Moraleda, S., Kean, H., Varley, R., & Fedorenko, E. (2023). [The human language system does not support music processing](https://doi.org/10.1093/cercor/bhad087). _Cerebral Cortex_ [[bioRxiv](https://doi.org/10.1101/2021.06.01.446439)]
+
+Zhang, Z., Bergen, L., Paunov, A., **Ryskin, R.**, & Gibson, E. (2023). [Scalar Implicature is Sensitive to Contextual Alternatives](https://doi.org/10.1111/cogs.13238). _Cognitive Science, 47(2)_, e13238. 
+
+Zhang, Y., **Ryskin, R.**, & Gibson, E. (2023). [A Noisy-Channel Approach to Depth-Charge
+Illusions](https://doi.org/10.1016/j.cognition.2022.105346). _Cognition_. [[Preprint](https://ssrn.com/abstract=4130042)]
+
+## 2022 {#2022}
+
+Fedorenko, E., **Ryskin, R.**, Gibson, E. (2022). [Agrammatic output in non-fluent/Broca’s aphasia as a rational behavior](https://doi.org/10.1080/02687038.2022.2143233). _Aphasiology_
+
+Cain, E., **Ryskin, R.**, & Yu, C. (2022). [Quantifying cross-situational statistics during parent-child
+toy play](https://escholarship.org/uc/item/7w66j9bd). _Proceedings of the Annual Meeting of the Cognitive Science Society, Toronto, CA_
+
+Rezaii, N., Mahowald, K, **Ryskin, R.**, Dickerson, B. & Gibson, E. (2022). [A Lexico-Syntactic Trade-off in Language Production: Evidence from Primary Progressive Aphasia](https://doi.org/10.1073/pnas.2120203119). _Proceedings of the National Academy of Sciences, 119 (25)_. e2120203119.
+
+Liu, Y., **Ryskin, R.**, Futrell, R., & Gibson, E. (2022). [A verb-frame frequency account of constraints on long-distance dependencies in English](https://doi.org/10.1016/j.cognition.2021.104902). _Cognition_, 222, 104902.
+
+## 2021 {#2021}
+
+**Ryskin, R.**, Bergen, L., & Gibson, E. (2021, preprint). Agreement errors are predicted by rational inference in sentence processing. [[PsyArXiv]](https://doi.org/10.31234/osf.io/uaxsq)
+
+**Ryskin, R.**, & Fang, X. (2021). [The Many Timescales of Context in Language Processing](https://doi.org/10.1016/bs.plm.2021.08.001). _Psychology of Learning and Motivation_. [[PDF]](pdfs/Ryskin and Fang - 2021 - The many timescales of context in language process.pdf)
+
+
+**Ryskin, R.**, Stearns, L., Bergen, L., Eddy, M., Fedorenko, E., & Gibson, E. (2021). [An ERP index of real-time error correction within a noisy-channel framework of human communication](https://doi.org/10.1016/j.neuropsychologia.2021.107855). _Neuropsychologia, 158_, 107855. [[UC Open Access](https://escholarship.org/uc/item/8f72t5x7)]
+
+## 2020 {#2020}
+
+**Ryskin, R.**, Stevenson, S., & Heller, D. (2020). [Probabilistic weighting of perspectives in dyadic communication](https://cognitivesciencesociety.org/cogsci20/papers/0050/index.html). _Proceedings of the Annual Meeting of the Cognitive Science Society_. [[PDF](pdfs/probabilisticweighting_0525.pdf)] [[data & code](https://github.com/raryskin/dyadPT)] 
+
+**Ryskin, R.**, Levy, R. P., & Fedorenko, E. (2020). [Do domain-general executive resources play a role in linguistic prediction? Re-evaluation of the evidence and a path forward](https://doi.org/10.1016/j.neuropsychologia.2019.107258). _Neuropsychologia, 136_, 107258. [[PDF](pdfs/Ryskin, Levy, & Fedorenko (2019).pdf)] 
+
+## 2019 {#2019}
+
+**Ryskin, R.**, Kurumada, C., & Brown‐Schmidt, S. (2019). [Information integration in modulation of pragmatic inferences during online language comprehension]( https://doi.org/10.1111/cogs.12769). _Cognitive science, 43(8)_, e12769. [[OSF project](https://osf.io/5geba/)]  [[PDF](pdfs/Ryskin_Kurumada_Brown-Schmidt_2019.pdf)] 
+
+**Ryskin, R**., Ng, S., Mimnaugh, K., Brown-Schmidt, S., & Federmeier, K. D. (2019). [Talker-specific predictions during language processing](https://doi.org/10.1080/23273798.2019.1630654). _Language, Cognition, & Neuroscience, 35 (6)_. 797-812. [[OSF project](https://osf.io/72p9m/)] [[Free download](https://www.tandfonline.com/eprint/RSZWGBBCGSPBMZZ6BCPR/full?target=10.1080/23273798.2019.1630654)]
+
+## 2018 {#2018}
+
+**Ryskin, R**. Futrell, R., Kiran, S., & Gibson, E. (2018). [Comprehenders model the nature of noise in the environment](https://www.sciencedirect.com/science/article/pii/S0010027718302245). _Cognition, 181_. 141-150. __Preregistration Challenge Winner__ [[OSF project](https://osf.io/rkrha/)]  [[Manuscript PDF](pdfs/Ryskin_Futrell_Kiran_Gibson_ACCEPTED.pdf)] 
+
+**Ryskin, R.**, Qi, Z., Covington, N. V., Duff, M., & Brown-Schmidt, S. (2018). [Knowledge and learning of verb biases in amnesia](https://www.sciencedirect.com/science/article/pii/S0093934X17302651). _Brain and Language, 180-182_. 62–83. [[Manuscript PDF](https://osf.io/h84wr)]
+
+## 2017 {#2017}
+
+**Ryskin, R.** & Brown-Schmidt, S. (2017). The malleability of linguistic representations poses a challenge to the priming-based experimental approach. _Behavioral and Brain Sciences, 40_, E309. [[PDF](https://osf.io/preprints/psyarxiv/z642t)] <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Commentary on Branigan & Pickering (2017), _An Experimental Approach to Linguistic Representation_.
+
+**Ryskin, R.**, Qi, Z., Duff, M., & Brown-Schmidt, S. (2017). Verb biases are shaped through lifelong learning. _Journal of Experimental Psychology: Learning, Memory, and Cognition, 43._ 781-794. [[PDF](pdfs/Ryskin, Qi, Duff, Brown-Schmidt (in press).pdf)]
+
+## 2016 {#2016}
+
+**Ryskin, R.**, Wang, R. F., & Brown-Schmidt, S. (2016). Listeners use speaker identity to access representations of spatial perspective during online language comprehension. _Cognition, 147_, 75-84. [[PDF](pdfs/Ryskin, Wang, & Brown-Schmidt (2016).pdf)]
+
+## 2015 {#2015}
+
+**Ryskin, R.**, Benjamin, A. S., Tullis, J. & Brown-Schmidt, S. (2015). Perspective-taking in comprehension, production, and memory: an individual differences approach. _Journal of Experimental Psychology: General,144_, 898-915. [[PDF](pdfs/Ryskin, Benjamin, Tullis, Brown-Schmidt (2015).pdf)]
+
+**Ryskin, R.**., Yoon, S., & Brown-Schmidt (2015). [Language, Memory, and Perspectives](https://doi.org/10.1002/9781118900772.etrds0200), in _Emerging Trends in the Social and Behavioral Sciences_ (eds.) Robert Scott and Stephen Kosslyn, Hoboken, NJ: John Wiley and Sons. [[PDF](pdfs/Ryskin,Yoon, Brown-Schmidt (2015).pdf)]
+
+Brown-Schmidt, S., Yoon, S., & **Ryskin, R. A.** (2015). People as Contexts in Conversation. In B. H. Ross (Ed.), _Psychology of Learning and Motivation_, Vol. 62, pp. 59-99. San Diego, CA: Elsevier Academic Press. [[PDF](pdfs/Brown-Schmidt - Psych of Learning and Motivation.pdf)]
+
+## 2014 {#2014}
+
+**Ryskin, R.**, Brown-Schmidt, S., Canseco-Gonzalez, E., Yiu, L., & Nguyen, E. (2014). [Visuospatial perspective-taking in conversation and the role of bilingual experience](https://doi.org/10.1016/j.jml.2014.04.003). _Journal of Memory and Language, 74_, 46-76. [[PDF](pdfs/Ryskin,etal2014.pdf)]
+
+**Ryskin, R.** & Brown-Schmidt, S. (2014). [Do adults show a curse of knowledge in false-belief reasoning? A robust estimate of the true effect size](https://doi.org/10.1371/journal.pone.0092406). _PLoS ONE, 9_(3): e92406. [[PDF](pdfs/Ryskin&Brown-Schmidt(2014)-Vicki.pdf)]
+
+Rapp, D.N., Hinze, S.R., Kohlhepp, K., & **Ryskin, R.** (2014). [Reducing reliance on inaccurate information](https://doi.org/10.3758/s13421-013-0339-0). _Memory & Cognition, 42_, 11-26.[[PDF](pdfs/Rapp, Hinze, Kohlhepp. & Ryskin, 2014.pdf)]
 </div>
 
 
