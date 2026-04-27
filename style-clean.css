@@ -1,6 +1,5 @@
 /* 1. TYPOGRAPHY & SPACING */
 
-
 body {
   /* This looks for Helvetica Light first, then Inter as the web-safe backup */
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, "Inter", Arial, sans-serif !important;
@@ -89,3 +88,43 @@ section {
   color: #3498db;     /* Subtle color shift on hover */
 }
 
+
+/* FOR MOBILE */
+@media (max-width: 767px) {
+  /* 1. Make the TOC a "Sticky" Header */
+  #TOC {
+    position: fixed !important; /* This makes it follow the scroll */
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    z-index: 1000;
+    background-color: rgba(255, 255, 255, 0.98); 
+    border-bottom: 1px solid #ddd;
+    border-radius: 0; /* Flat against the top looks cleaner for a sticky bar */
+    max-height: 50px; 
+    overflow: hidden;
+    transition: max-height 0.3s ease-in-out;
+  }
+
+  /* 2. Expand on tap */
+  #TOC:active, #TOC:focus, #TOC:hover {
+    max-height: 80vh; /* Allow it to grow to 80% of screen height */
+    overflow-y: auto;
+  }
+
+  /* 3. The Menu Label */
+  #TOC::before {
+    content: "≡ Sections";
+    display: block;
+    padding: 15px;
+    text-align: center;
+    font-weight: 600;
+    font-family: 'Inter', sans-serif;
+    color: #2c3e50;
+  }
+
+  /* 4. Shift the main content down so it's not hidden behind the fixed TOC */
+  .main-container {
+    padding-top: 60px !important; 
+  }
+}
