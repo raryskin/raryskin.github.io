@@ -8,7 +8,7 @@ output: html_document
 }
 </style>
 <div class="row" style="text-align: justify;  text-justify: inter-word; padding-top: 20px; padding-right: 20px; padding-left: 20px">
-
+Naik, S., **Ryskin, R.**$^\dagger$, & Marghetis, T.$^\dagger$ (preprint). [Eye-tracking reveals the perceptual basis of algebraic expertise](https://osf.io/preprints/psyarxiv/a3rpt_v1). _PsyArXiv_
 
  Billot, A., Varkanitsa, M., Jhingan, N., Carvalho, N., Falconer, I., Small, H., **Ryskin, R.**, Blank, I., Fedorenko, E., & Kiran, S. (preprint) [Language comprehension in chronic aphasia relies on the language network, not the Multiple Demand network](https://doi.org/10.64898/2026.03.16.26348460). _bioRxiv_ 
 

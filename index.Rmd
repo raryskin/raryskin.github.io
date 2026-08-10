@@ -45,7 +45,9 @@ My research largely centers around a fundamental question: __How do humans under
 # Publications {#publications}
 
 ## 2026 / Preprints / To appear {#2026}
- Billot, A., Varkanitsa, M., Jhingan, N., Carvalho, N., Falconer, I., Small, H., **Ryskin, R.**, Blank, I., Fedorenko, E., & Kiran, S. (preprint) [Language comprehension in chronic aphasia relies on the language network, not the Multiple Demand network](https://doi.org/10.64898/2026.03.16.26348460). _bioRxiv_ 
+Naik, S., **Ryskin, R.**$^\dagger$, & Marghetis, T.$^\dagger$ (preprint). [Eye-tracking reveals the perceptual basis of algebraic expertise](https://osf.io/preprints/psyarxiv/a3rpt_v1). _PsyArXiv_
+
+Billot, A., Varkanitsa, M., Jhingan, N., Carvalho, N., Falconer, I., Small, H., **Ryskin, R.**, Blank, I., Fedorenko, E., & Kiran, S. (preprint) [Language comprehension in chronic aphasia relies on the language network, not the Multiple Demand network](https://doi.org/10.64898/2026.03.16.26348460). _bioRxiv_ 
 
 Williams, T., Setzler, M., Aswamenakul, C., **Ryskin, R.**, Spivey, M. J., Kim, M., & Marghetis, T. (preprint). [Musical improvisation reveals the fine-grained foraging dynamics of collective innovation](https://doi.org/10.31234/osf.io/2uwka_v1). _OSF_
 
