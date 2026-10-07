@@ -45,6 +45,9 @@ My research largely centers around a fundamental question: __How do humans under
 # Publications {#publications}
 
 ## 2026 / Preprints / To appear {#2026}
+
+**Ryskin, R.** (preprint). [Eye-gaze dynamics reveal the adaptive nature of real-time noisy-channel inference in speech comprehension](https://osf.io/preprints/psyarxiv/be2ft_v1). _PsyArXiv_
+
 Naik, S., **Ryskin, R.**$^\dagger$, & Marghetis, T.$^\dagger$ (preprint). [Eye-tracking reveals the perceptual basis of algebraic expertise](https://osf.io/preprints/psyarxiv/a3rpt_v1). _PsyArXiv_
 
 Billot, A., Varkanitsa, M., Jhingan, N., Carvalho, N., Falconer, I., Small, H., **Ryskin, R.**, Blank, I., Fedorenko, E., & Kiran, S. (preprint) [Language comprehension in chronic aphasia relies on the language network, not the Multiple Demand network](https://doi.org/10.64898/2026.03.16.26348460). _bioRxiv_ 
