@@ -46,6 +46,8 @@ My research largely centers around a fundamental question: __How do humans under
 
 ## 2026 / Preprints / To appear {#2026}
 
+**Ryskin, R.**$^\dagger$, Poliak, M.$^\dagger$, Qian, P., Clark, T., Chen, S., Gibson, E.#, & Levy, R.# (preprint). [An Integrated Account of Language Comprehension and Processing as Noisy-Channel Inference](https://doi.org/10.31234/osf.io/4p5nv_v1). _PsyArXiv_ 
+
 **Ryskin, R.** (preprint). [Eye-gaze dynamics reveal the adaptive nature of real-time noisy-channel inference in speech comprehension](https://osf.io/preprints/psyarxiv/be2ft_v1). _PsyArXiv_
 
 Naik, S., **Ryskin, R.**$^\dagger$, & Marghetis, T.$^\dagger$ (preprint). [Eye-tracking reveals the perceptual basis of algebraic expertise](https://osf.io/preprints/psyarxiv/a3rpt_v1). _PsyArXiv_
