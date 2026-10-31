@@ -30,7 +30,6 @@ custom <- icons::icon_set("brands")
 [`r icon_style(fontawesome("twitter"), scale = 2, fill = "#2c3e50")`](https://twitter.com/raryskin) 
 [`r icon_style(custom$bluesky, scale = 2, fill = "#2c3e50")`](https://bsky.app/profile/ryskin.bsky.social) 
 [`r icon_style(academicons("osf"), scale = 2, fill = "#2c3e50")`](https://osf.io/skpx5/)
-<a rel="me" href="https://mstdn.social/@raryskin"></a>
 </div>
 
 # About {#about}
@@ -46,9 +45,9 @@ My research largely centers around a fundamental question: __How do humans under
 
 ## 2026 / Preprints / To appear {#2026}
 
-**Ryskin, R.**$^\dagger$, Poliak, M.$^\dagger$, Qian, P., Clark, T., Chen, S., Gibson, E.#, & Levy, R.# (preprint). [An Integrated Account of Language Comprehension and Processing as Noisy-Channel Inference](https://doi.org/10.31234/osf.io/4p5nv_v1). _PsyArXiv_ 
+**Ryskin, R.**$^\dagger$, Poliak, M.$^\dagger$, Qian, P., Clark, T., Chen, S., Gibson, E.$^\ddagger$, & Levy, R.$^\ddagger$ (preprint). [An Integrated Account of Language Comprehension and Processing as Noisy-Channel Inference](https://doi.org/10.31234/osf.io/4p5nv_v1). _PsyArXiv_ 
 
-**Ryskin, R.** (preprint). [Eye-gaze dynamics reveal the adaptive nature of real-time noisy-channel inference in speech comprehension](https://osf.io/preprints/psyarxiv/be2ft_v1). _PsyArXiv_
+**Ryskin, R.** (preprint). [Eye-gaze dynamics reveal the adaptive nature of real-time noisy-channel inference in speech comprehension](https://osf.io/preprints/psyarxiv/be2ft_v2). _PsyArXiv_
 
 Naik, S., **Ryskin, R.**$^\dagger$, & Marghetis, T.$^\dagger$ (preprint). [Eye-tracking reveals the perceptual basis of algebraic expertise](https://osf.io/preprints/psyarxiv/a3rpt_v1). _PsyArXiv_
 
